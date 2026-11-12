@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Raw design tokens measured from the reference (see docs/REFERENCE_WEBSITE_AUDIT.md §3). */
+:root {
+  --page: #ffffff;
+  --page-alt: #f9fafb;
+  --surface: #ffffff;
+  --surface-2: #f3f4f6;
+  --foreground: #111827;
+  --muted: #4b5563;
+  --subtle: #6b7280;
+  --border: #e5e7eb;
+  --border-strong: #d1d5db;
+  --link: #007185;
+  --price: #b12704;
+  --accent-tint: #fff4e5;
+  color-scheme: light;
+}
+.dark {
+  --page: #0f1419;
+  --page-alt: #131a22;
+  --surface: #1a222c;
+  --surface-2: #232d39;
+  --foreground: #f3f4f6;
+  --muted: #c3c9d2;
+  --subtle: #9aa3af;
+  --border: #2c3744;
+  --border-strong: #3b4756;
+  --link: #4fc3d6;
+  --price: #ff7a59;
+  --accent-tint: #3a2a12;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --font-sans: "Noto Sans Bengali", Kalpurush, "Noto Sans", system-ui, sans-serif;
+
+  --color-page: var(--page);
+  --color-page-alt: var(--page-alt);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-subtle: var(--subtle);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-link: var(--link);
+  --color-price: var(--price);
+  --color-accent-tint: var(--accent-tint);
+
+  --color-accent: #ff9900;
+  --color-accent-dark: #c45500;
+  --color-cart: #ffd814;
+  --color-cart-hover: #f7ca00;
+  --color-cart-border: #fcd200;
+  --color-navy: #232f3e;
+  --color-navy-2: #37475a;
+  --color-navy-3: #131921;
+  --color-footer: #131a22;
+  --color-sale: #dc2626;
+  --color-instock: #067d62;
+}
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    @apply bg-page text-foreground font-sans antialiased;
+  }
+  :focus-visible { outline: 2px solid #ff9900; outline-offset: 2px; }
+  button { cursor: pointer; }
+  button:disabled { cursor: not-allowed; }
+}
+
+@layer components {
+  .container-mb { @apply mx-auto w-full max-w-[1400px] px-4; }
+  .btn-cart {
+    @apply inline-flex items-center justify-center gap-1.5 rounded border border-cart-border bg-cart text-sm font-medium text-gray-900 transition-colors hover:bg-cart-hover disabled:border-border disabled:bg-surface-2 disabled:text-subtle;
+  }
+  .btn-accent {
+    @apply inline-flex items-center justify-center gap-2 rounded bg-accent px-4 py-2 text-sm font-semibold text-gray-900 transition-colors hover:bg-[#f08c00] disabled:opacity-60;
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded border border-border-strong bg-surface px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-surface-2;
+  }
+  .input {
+    @apply w-full rounded border border-border-strong bg-surface px-3 py-2 text-sm text-foreground placeholder:text-subtle outline-none transition-colors focus:border-accent focus:ring-2 focus:ring-accent/20;
+  }
+  .input-error { @apply border-red-500 focus:border-red-500 focus:ring-red-500/20; }
+  .panel { @apply rounded-lg border border-border bg-surface; }
+  .link { @apply text-link hover:text-accent-dark hover:underline; }
+}
+
+@keyframes marquee { from { transform: translateX(0) } to { transform: translateX(-50%) } }
+.animate-marquee { animation: marquee 40s linear infinite; }
+.animate-marquee:hover { animation-play-state: paused; }
+
+@keyframes slide-in-left { from { transform: translateX(-100%) } to { transform: none } }
+@keyframes slide-in-right { from { transform: translateX(100%) } to { transform: none } }
+@keyframes fade-in { from { opacity: 0 } to { opacity: 1 } }
+@keyframes pop-in { from { opacity: 0; transform: translateY(8px) scale(.98) } to { opacity: 1; transform: none } }
+.anim-left { animation: slide-in-left .25s ease-out; }
+.anim-right { animation: slide-in-right .25s ease-out; }
+.anim-fade { animation: fade-in .2s ease-out; }
+.anim-pop { animation: pop-in .2s ease-out; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee, .anim-left, .anim-right, .anim-fade, .anim-pop { animation: none; }
+  * { scroll-behavior: auto !important; transition-duration: 0ms !important; }
+}
+
+/* Swiper pagination styled like the reference pill dots */
+.hero-swiper .swiper-pagination { bottom: 64px !important; }
+.hero-swiper .swiper-pagination-bullet { background: #fff; opacity: .7; width: 8px; height: 8px; transition: width .2s; }
+.hero-swiper .swiper-pagination-bullet-active { width: 28px; border-radius: 9999px; opacity: 1; }
+@media (max-width: 767px) { .hero-swiper .swiper-pagination { bottom: 36px !important; } }
+
+.scrollbar-none { scrollbar-width: none; }
+.scrollbar-none::-webkit-scrollbar { display: none; }

@@ -1,0 +1,34 @@
+{
+ "main": [
+  {
+   "label": "এডমিশন বই",
+   "to": "/products?category=admission-books"
+  },
+  {
+   "label": "বিসিএস/চাকরি",
+   "to": "/products?category=bcs-chakri"
+  },
+  {
+   "label": "মেডিকেল/Medical",
+   "to": "/products?category=medical"
+  },
+  {
+   "label": "একাডেমিক",
+   "to": "/products?category=academic"
+  },
+  {
+   "label": "গল্প/কবিতা/উপন্যাস",
+   "to": "/products?category=golpo-kobita-uponnash"
+  },
+  {
+   "label": "ইসলামিক বই",
+   "to": "/products?category=islamic-boi"
+  }
+ ],
+ "announcements": [
+  "New arrivals every week - explore the latest titles",
+  "Limited-time offers on bestsellers",
+  "Cash on delivery available",
+  "Free delivery inside Dhaka on orders over ৳1,500"
+ ]
+}

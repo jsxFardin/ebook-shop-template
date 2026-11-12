@@ -1,0 +1,298 @@
+[
+ {
+  "slug": "boi-books",
+  "name": "বই/Books",
+  "parent": null,
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 28
+ },
+ {
+  "slug": "bcs-special",
+  "name": "BCS Special",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 200
+ },
+ {
+  "slug": "admission-books",
+  "name": "এডমিশন বই",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 160
+ },
+ {
+  "slug": "bcs-chakri",
+  "name": "বিসিএস/চাকরি",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 140
+ },
+ {
+  "slug": "medical",
+  "name": "মেডিকেল/Medical",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 0
+ },
+ {
+  "slug": "ssc-hsc",
+  "name": "SSC/দাখিল/কারিগরি",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 220
+ },
+ {
+  "slug": "academic",
+  "name": "একাডেমিক",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 260
+ },
+ {
+  "slug": "golpo-kobita-uponnash",
+  "name": "গল্প/কবিতা/উপন্যাস",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 320
+ },
+ {
+  "slug": "islamic-boi",
+  "name": "ইসলামিক বই",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 120
+ },
+ {
+  "slug": "english-learning",
+  "name": "English Learning",
+  "parent": "boi-books",
+  "type": "book",
+  "icon": "BookOpen",
+  "hue": 40
+ },
+ {
+  "slug": "stationary-1",
+  "name": "স্টেশনারি/Stationary",
+  "parent": null,
+  "type": "general",
+  "icon": "PencilLine",
+  "hue": 45
+ },
+ {
+  "slug": "pencil",
+  "name": "Pencil",
+  "parent": "stationary-1",
+  "type": "general",
+  "icon": "Pencil",
+  "hue": 45
+ },
+ {
+  "slug": "pen-1",
+  "name": "Pen",
+  "parent": "stationary-1",
+  "type": "general",
+  "icon": "PenTool",
+  "hue": 210
+ },
+ {
+  "slug": "painting-drawing-art-supplies",
+  "name": "Painting, Drawing & Art Supplies",
+  "parent": "stationary-1",
+  "type": "general",
+  "icon": "Palette",
+  "hue": 300
+ },
+ {
+  "slug": "calculator",
+  "name": "Calculator",
+  "parent": "stationary-1",
+  "type": "general",
+  "icon": "Calculator",
+  "hue": 180
+ },
+ {
+  "slug": "paper-files",
+  "name": "Paper & Files",
+  "parent": "stationary-1",
+  "type": "general",
+  "icon": "FileText",
+  "hue": 30
+ },
+ {
+  "slug": "gadget",
+  "name": "গ্যাজেট/Gadget",
+  "parent": null,
+  "type": "general",
+  "icon": "Smartphone",
+  "hue": 230
+ },
+ {
+  "slug": "smartwatch",
+  "name": "Smartwatch",
+  "parent": "gadget",
+  "type": "general",
+  "icon": "Watch",
+  "hue": 230
+ },
+ {
+  "slug": "earbuds",
+  "name": "Earbuds",
+  "parent": "gadget",
+  "type": "general",
+  "icon": "Bluetooth",
+  "hue": 250
+ },
+ {
+  "slug": "earphone",
+  "name": "Earphone",
+  "parent": "gadget",
+  "type": "general",
+  "icon": "Cable",
+  "hue": 240
+ },
+ {
+  "slug": "headphone",
+  "name": "Headphone",
+  "parent": "gadget",
+  "type": "general",
+  "icon": "Headphones",
+  "hue": 260
+ },
+ {
+  "slug": "power-bank",
+  "name": "Power Bank",
+  "parent": "gadget",
+  "type": "general",
+  "icon": "BatteryCharging",
+  "hue": 150
+ },
+ {
+  "slug": "sunnah-store",
+  "name": "সুন্নাহ স্টোর/Sunnah Store",
+  "parent": null,
+  "type": "general",
+  "icon": "Moon",
+  "hue": 140
+ },
+ {
+  "slug": "jaynamaz",
+  "name": "Jaynamaz",
+  "parent": "sunnah-store",
+  "type": "general",
+  "icon": "Square",
+  "hue": 20
+ },
+ {
+  "slug": "miswak",
+  "name": "Miswak",
+  "parent": "sunnah-store",
+  "type": "general",
+  "icon": "Leaf",
+  "hue": 100
+ },
+ {
+  "slug": "life-style",
+  "name": "লাইফ স্টাইল/Life Style",
+  "parent": null,
+  "type": "general",
+  "icon": "ShoppingBag",
+  "hue": 340
+ },
+ {
+  "slug": "bags",
+  "name": "Bags",
+  "parent": "life-style",
+  "type": "general",
+  "icon": "Briefcase",
+  "hue": 25
+ },
+ {
+  "slug": "belt",
+  "name": "Belt",
+  "parent": "life-style",
+  "type": "general",
+  "icon": "Minus",
+  "hue": 15
+ },
+ {
+  "slug": "t-shirt",
+  "name": "টি-শার্ট / T-shirt",
+  "parent": "life-style",
+  "type": "general",
+  "icon": "Shirt",
+  "hue": 210
+ },
+ {
+  "slug": "attar",
+  "name": "Attar",
+  "parent": "life-style",
+  "type": "general",
+  "icon": "Droplet",
+  "hue": 45
+ },
+ {
+  "slug": "super-shop",
+  "name": "সুপার শপ/Super Shop",
+  "parent": null,
+  "type": "general",
+  "icon": "ShoppingBasket",
+  "hue": 90
+ },
+ {
+  "slug": "coffee-snacks",
+  "name": "Coffee & Snacks",
+  "parent": "super-shop",
+  "type": "general",
+  "icon": "Coffee",
+  "hue": 25
+ },
+ {
+  "slug": "cutter-tools",
+  "name": "Cutter & Tools",
+  "parent": "super-shop",
+  "type": "general",
+  "icon": "Scissors",
+  "hue": 50
+ },
+ {
+  "slug": "home-decorations",
+  "name": "Home Decorations",
+  "parent": null,
+  "type": "general",
+  "icon": "Lamp",
+  "hue": 35
+ },
+ {
+  "slug": "electronics",
+  "name": "ইলেক্ট্রনিক্স/Electronics",
+  "parent": null,
+  "type": "general",
+  "icon": "Cpu",
+  "hue": 200
+ },
+ {
+  "slug": "keyboard",
+  "name": "Keyboard",
+  "parent": "electronics",
+  "type": "general",
+  "icon": "Keyboard",
+  "hue": 270
+ },
+ {
+  "slug": "mouse",
+  "name": "Mouse",
+  "parent": "electronics",
+  "type": "general",
+  "icon": "Mouse",
+  "hue": 190
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "slug": "alokbortika-prokashoni",
+  "name": "Alokbortika Prokashoni",
+  "nameBn": "আলোকবর্তিকা প্রকাশনী",
+  "bio": "Alokbortika Prokashoni publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 10,
+  "initials": "AP"
+ },
+ {
+  "slug": "shikkha-path-publications",
+  "name": "Shikkha Path Publications",
+  "nameBn": "শিক্ষা পথ পাবলিকেশন্স",
+  "bio": "Shikkha Path Publications publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 63,
+  "initials": "SP"
+ },
+ {
+  "slug": "nodi-prokash",
+  "name": "Nodi Prokash",
+  "nameBn": "নদী প্রকাশ",
+  "bio": "Nodi Prokash publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 116,
+  "initials": "NP"
+ },
+ {
+  "slug": "medi-prep-press",
+  "name": "Medi Prep Press",
+  "nameBn": "মেডি প্রেপ প্রেস",
+  "bio": "Medi Prep Press publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 169,
+  "initials": "MP"
+ },
+ {
+  "slug": "career-ladder-publications",
+  "name": "Career Ladder Publications",
+  "nameBn": "ক্যারিয়ার ল্যাডার",
+  "bio": "Career Ladder Publications publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 222,
+  "initials": "CL"
+ },
+ {
+  "slug": "kagoj-kolom",
+  "name": "Kagoj Kolom",
+  "nameBn": "কাগজ কলম",
+  "bio": "Kagoj Kolom publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 275,
+  "initials": "KK"
+ },
+ {
+  "slug": "shobuj-pata",
+  "name": "Shobuj Pata",
+  "nameBn": "সবুজ পাতা",
+  "bio": "Shobuj Pata publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 328,
+  "initials": "SP"
+ },
+ {
+  "slug": "lighthouse-academic",
+  "name": "Lighthouse Academic",
+  "nameBn": "লাইটহাউস একাডেমিক",
+  "bio": "Lighthouse Academic publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 21,
+  "initials": "LA"
+ },
+ {
+  "slug": "nur-library",
+  "name": "Nur Library",
+  "nameBn": "নূর লাইব্রেরি",
+  "bio": "Nur Library publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 74,
+  "initials": "NL"
+ },
+ {
+  "slug": "ekushey-prokashon",
+  "name": "Ekushey Prokashon",
+  "nameBn": "একুশে প্রকাশন",
+  "bio": "Ekushey Prokashon publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 127,
+  "initials": "EP"
+ },
+ {
+  "slug": "pathshala-press",
+  "name": "Pathshala Press",
+  "nameBn": "পাঠশালা প্রেস",
+  "bio": "Pathshala Press publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 180,
+  "initials": "PP"
+ },
+ {
+  "slug": "bornomala-books",
+  "name": "Bornomala Books",
+  "nameBn": "বর্ণমালা বুকস",
+  "bio": "Bornomala Books publishes study guides, literature and reference titles for readers across Bangladesh.",
+  "hue": 233,
+  "initials": "BB"
+ }
+]

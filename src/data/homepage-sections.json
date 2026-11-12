@@ -1,0 +1,54 @@
+{
+ "categoryBoxes": [
+  {
+   "category": "boi-books",
+   "items": [
+    "bcs-special",
+    "admission-books",
+    "bcs-chakri",
+    "medical"
+   ]
+  },
+  {
+   "category": "stationary-1",
+   "items": [
+    "pencil",
+    "painting-drawing-art-supplies",
+    "calculator",
+    "pen-1"
+   ]
+  },
+  {
+   "category": "gadget",
+   "items": [
+    "smartwatch",
+    "earbuds",
+    "earphone",
+    "headphone"
+   ]
+  },
+  {
+   "category": "life-style",
+   "items": [
+    "bags",
+    "belt",
+    "t-shirt",
+    "attar"
+   ]
+  }
+ ],
+ "categoryRails": [
+  "bcs-chakri",
+  "admission-books"
+ ],
+ "rootSections": [
+  "boi-books",
+  "stationary-1",
+  "gadget",
+  "sunnah-store",
+  "life-style",
+  "super-shop",
+  "home-decorations",
+  "electronics"
+ ]
+}

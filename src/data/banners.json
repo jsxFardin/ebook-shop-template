@@ -1,0 +1,92 @@
+{
+ "hero": [
+  {
+   "id": "h1",
+   "title": "ভর্তি প্রস্তুতির সব বই",
+   "subtitle": "এক জায়গায়, সেরা দামে",
+   "badge": "Up to 40% off",
+   "cta": "Shop admission books",
+   "to": "/products?category=admission-books",
+   "from": "#0f3d56",
+   "to2": "#1b6f8a",
+   "accent": "#ffd814",
+   "art": "books"
+  },
+  {
+   "id": "h2",
+   "title": "চাকরির প্রস্তুতি শুরু হোক আজই",
+   "subtitle": "BCS, ব্যাংক ও শিক্ষক নিবন্ধনের বই",
+   "badge": "New editions",
+   "cta": "Browse job prep",
+   "to": "/products?category=bcs-chakri",
+   "from": "#5b1a1a",
+   "to2": "#a23b1f",
+   "accent": "#ffb84d",
+   "art": "books"
+  },
+  {
+   "id": "h3",
+   "title": "Back to class essentials",
+   "subtitle": "Pens, sketchbooks, calculators and more",
+   "badge": "Stationery week",
+   "cta": "Shop stationery",
+   "to": "/products?category=stationary-1",
+   "from": "#2d2a6e",
+   "to2": "#5b4fc4",
+   "accent": "#ffd814",
+   "art": "stationery"
+  },
+  {
+   "id": "h4",
+   "title": "গল্প, কবিতা, উপন্যাস",
+   "subtitle": "নতুন লেখকদের নতুন বই",
+   "badge": "Fresh arrivals",
+   "cta": "Explore fiction",
+   "to": "/products?category=golpo-kobita-uponnash",
+   "from": "#1f4d2e",
+   "to2": "#3f8a52",
+   "accent": "#ffe08a",
+   "art": "books"
+  }
+ ],
+ "side": {
+  "title": "Fit Pro Smart Watch",
+  "subtitle": "1.9\" display · 7-day battery",
+  "cta": "Shop now",
+  "to": "/products?category=smartwatch",
+  "from": "#0e3b3a",
+  "to2": "#14706b"
+ },
+ "promos": [
+  {
+   "id": "pr1",
+   "title": "Power that lasts",
+   "subtitle": "30000mAh multi-port power banks",
+   "cta": "New arrival",
+   "to": "/products?category=power-bank",
+   "from": "#0b2447",
+   "to2": "#19376d",
+   "icon": "BatteryCharging"
+  },
+  {
+   "id": "pr2",
+   "title": "স্টেশনারি পণ্যে আকর্ষণীয় ছাড়",
+   "subtitle": "Pens, paints and paper",
+   "cta": "Shop now",
+   "to": "/products?category=stationary-1",
+   "from": "#00796b",
+   "to2": "#26a69a",
+   "icon": "Palette"
+  },
+  {
+   "id": "pr3",
+   "title": "BCS BOOK",
+   "subtitle": "Save up to 50%",
+   "cta": "Order now",
+   "to": "/products?category=bcs-special",
+   "from": "#8e1b1b",
+   "to2": "#d32f2f",
+   "icon": "BookOpen"
+  }
+ ]
+}

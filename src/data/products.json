@@ -1,0 +1,6776 @@
+[
+ {
+  "id": "p1",
+  "slug": "book-1-1",
+  "title": "বিসিএস প্রিলিমিনারি গাইড",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "shirin-sultana"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 380,
+  "originalPrice": 660,
+  "stock": 71,
+  "sku": "MB107919",
+  "isbn": "978-984-36-3870-6",
+  "language": "Bengali",
+  "pages": 120,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 337,
+  "edition": "2nd edition, 2025",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 201,
+  "featured": true,
+  "soldCount": 700,
+  "createdAt": "2026-08-12",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r1-0",
+    "name": "Hasib",
+    "rating": 5,
+    "date": "2026-10-23",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r1-1",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-01-10",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p2",
+  "slug": "bcs-written-masterplan-2",
+  "title": "BCS Written Masterplan",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "priya-saha"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 180,
+  "originalPrice": 190,
+  "stock": 9,
+  "sku": "MB115838",
+  "isbn": "978-984-59-9684-4",
+  "language": "English",
+  "pages": 224,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 838,
+  "edition": "3rd edition, 2023",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 193,
+  "featured": false,
+  "soldCount": 557,
+  "createdAt": "2026-10-05",
+  "rating": 3.3,
+  "reviews": [
+   {
+    "id": "r2-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-04-09",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r2-1",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-03-27",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r2-2",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-09-20",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p3",
+  "slug": "book-3-3",
+  "title": "বিসিএস সাধারণ জ্ঞান সমগ্র",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "imran-kabir"
+  ],
+  "publisher": "nur-library",
+  "price": 570,
+  "originalPrice": 730,
+  "stock": 46,
+  "sku": "MB123757",
+  "isbn": "978-984-27-2701-4",
+  "language": "Bengali",
+  "pages": 565,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 1028,
+  "edition": "2nd edition, 2026",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 213,
+  "featured": true,
+  "soldCount": 134,
+  "createdAt": "2026-10-23",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r3-0",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-09-18",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r3-1",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-06-22",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p4",
+  "slug": "bcs-math-shortcuts-4",
+  "title": "BCS Math Shortcuts",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "mahbub-alam"
+  ],
+  "publisher": "shikkha-path-publications",
+  "price": 660,
+  "stock": 6,
+  "sku": "MB131676",
+  "isbn": "978-984-60-6127-2",
+  "language": "English",
+  "pages": 431,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 189,
+  "edition": "3rd edition, 2024",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 222,
+  "featured": true,
+  "soldCount": 407,
+  "createdAt": "2026-07-26",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r4-0",
+    "name": "Rakib",
+    "rating": 5,
+    "date": "2026-03-01",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r4-1",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-04-25",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r4-2",
+    "name": "Sumaiya",
+    "rating": 5,
+    "date": "2026-10-25",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r4-3",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-08-03",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p5",
+  "slug": "book-5-5",
+  "title": "বিসিএস বাংলা প্রস্তুতি",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "tahmina-begum"
+  ],
+  "publisher": "nur-library",
+  "price": 540,
+  "originalPrice": 820,
+  "stock": 0,
+  "sku": "MB139595",
+  "isbn": "978-984-41-8716-8",
+  "language": "Bengali",
+  "pages": 219,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 203,
+  "edition": "2nd edition, 2023",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 182,
+  "featured": false,
+  "soldCount": 307,
+  "createdAt": "2026-05-22",
+  "rating": 3.5,
+  "reviews": [
+   {
+    "id": "r5-0",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-01-17",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r5-1",
+    "name": "Sakib",
+    "rating": 4,
+    "date": "2026-05-21",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r5-2",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-09-03",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r5-3",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-09-09",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p6",
+  "slug": "bcs-model-test-bank-6",
+  "title": "BCS Model Test Bank",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "anisur-rahman"
+  ],
+  "publisher": "shikkha-path-publications",
+  "price": 390,
+  "originalPrice": 740,
+  "stock": 47,
+  "sku": "MB147514",
+  "isbn": "978-984-38-2473-5",
+  "language": "Bengali, English",
+  "pages": 391,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 1063,
+  "edition": "2nd edition, 2023",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 199,
+  "featured": false,
+  "soldCount": 591,
+  "createdAt": "2026-03-20",
+  "rating": 5,
+  "reviews": [
+   {
+    "id": "r6-0",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-07-01",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p7",
+  "slug": "book-7-7",
+  "title": "বিসিএস ভাইভা কৌশল",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "arif-hossain"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 430,
+  "originalPrice": 650,
+  "stock": 10,
+  "sku": "MB155433",
+  "isbn": "978-984-80-9202-5",
+  "language": "Bengali",
+  "pages": 410,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 1183,
+  "edition": "1st edition, 2025",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 198,
+  "featured": false,
+  "soldCount": 164,
+  "createdAt": "2026-10-23",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r7-0",
+    "name": "Sakib",
+    "rating": 4,
+    "date": "2026-10-05",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r7-1",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-10-15",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r7-2",
+    "name": "Sumaiya",
+    "rating": 3,
+    "date": "2026-05-19",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p8",
+  "slug": "bcs-mental-ability-workbook-8",
+  "title": "BCS Mental Ability Workbook",
+  "type": "book",
+  "category": "bcs-special",
+  "authors": [
+   "editorial-board"
+  ],
+  "publisher": "bornomala-books",
+  "price": 420,
+  "originalPrice": 750,
+  "stock": 22,
+  "sku": "MB163352",
+  "isbn": "978-984-26-1947-7",
+  "language": "Bengali, English",
+  "pages": 563,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 886,
+  "edition": "3rd edition, 2024",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 221,
+  "featured": false,
+  "soldCount": 765,
+  "createdAt": "2026-07-18",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p9",
+  "slug": "book-9-9",
+  "title": "ভর্তি সহায়িকা: বিজ্ঞান ইউনিট",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "rafiqul-hasan"
+  ],
+  "publisher": "career-ladder-publications",
+  "price": 330,
+  "originalPrice": 450,
+  "stock": 45,
+  "sku": "MB171271",
+  "isbn": "978-984-47-1080-1",
+  "language": "Bengali",
+  "pages": 633,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 340,
+  "edition": "3rd edition, 2025",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 145,
+  "featured": true,
+  "soldCount": 133,
+  "createdAt": "2026-03-10",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r9-0",
+    "name": "Rakib",
+    "rating": 5,
+    "date": "2026-07-16",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r9-1",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-10-23",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p10",
+  "slug": "university-admission-guide-arts-10",
+  "title": "University Admission Guide: Arts",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "mahbub-alam"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 650,
+  "originalPrice": 890,
+  "stock": 46,
+  "sku": "MB179190",
+  "isbn": "978-984-93-6508-1",
+  "language": "Bengali, English",
+  "pages": 433,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 1062,
+  "edition": "1st edition, 2024",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 179,
+  "featured": false,
+  "soldCount": 119,
+  "createdAt": "2026-10-21",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r10-0",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-08-01",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p11",
+  "slug": "book-11-11",
+  "title": "মেডিকেল ভর্তি প্রশ্ন ব্যাংক",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "moinul-ahsan",
+   "kamrul-islam"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 200,
+  "stock": 74,
+  "sku": "MB187109",
+  "isbn": "978-984-19-6133-1",
+  "language": "Bengali",
+  "pages": 382,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 427,
+  "edition": "5th edition, 2023",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 159,
+  "featured": true,
+  "soldCount": 504,
+  "createdAt": "2026-02-05",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r11-0",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-01-26",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r11-1",
+    "name": "Nabila",
+    "rating": 3,
+    "date": "2026-02-20",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r11-2",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-03-18",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r11-3",
+    "name": "Fahim",
+    "rating": 5,
+    "date": "2026-04-01",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p12",
+  "slug": "engineering-admission-physics-12",
+  "title": "Engineering Admission Physics",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "farhana-akter"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 600,
+  "originalPrice": 710,
+  "stock": 0,
+  "sku": "MB195028",
+  "isbn": "978-984-39-4684-3",
+  "language": "English",
+  "pages": 629,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 1199,
+  "edition": "5th edition, 2026",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 152,
+  "featured": false,
+  "soldCount": 699,
+  "createdAt": "2026-11-28",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r12-0",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-04-26",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r12-1",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-09-09",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r12-2",
+    "name": "Sakib",
+    "rating": 4,
+    "date": "2026-05-10",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p13",
+  "slug": "book-13-13",
+  "title": "ভর্তি সহায়িকা: ব্যবসায় শিক্ষা",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "tahmina-begum"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 150,
+  "originalPrice": 210,
+  "stock": 16,
+  "sku": "MB202947",
+  "isbn": "978-984-58-7861-5",
+  "language": "Bengali",
+  "pages": 322,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 641,
+  "edition": "1st edition, 2024",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 150,
+  "featured": false,
+  "soldCount": 563,
+  "createdAt": "2026-08-09",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p14",
+  "slug": "gst-admission-question-bank-14",
+  "title": "GST Admission Question Bank",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "tanvir-ahmed",
+   "shirin-sultana"
+  ],
+  "publisher": "alokbortika-prokashoni",
+  "price": 560,
+  "originalPrice": 1060,
+  "stock": 67,
+  "sku": "MB210866",
+  "isbn": "978-984-88-2798-4",
+  "language": "English",
+  "pages": 568,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 297,
+  "edition": "2nd edition, 2023",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 166,
+  "featured": false,
+  "soldCount": 770,
+  "createdAt": "2026-06-23",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r14-0",
+    "name": "Nabila",
+    "rating": 3,
+    "date": "2026-09-21",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r14-1",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-01-03",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r14-2",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-02-03",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p15",
+  "slug": "book-15-15",
+  "title": "কৃষি গুচ্ছ ভর্তি গাইড",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "joynal-abedin"
+  ],
+  "publisher": "lighthouse-academic",
+  "price": 170,
+  "originalPrice": 190,
+  "stock": 37,
+  "sku": "MB218785",
+  "isbn": "978-984-75-2251-7",
+  "language": "Bengali",
+  "pages": 419,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 532,
+  "edition": "3rd edition, 2026",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 175,
+  "featured": false,
+  "soldCount": 671,
+  "createdAt": "2026-04-08",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p16",
+  "slug": "admission-english-grammar-16",
+  "title": "Admission English Grammar",
+  "type": "book",
+  "category": "admission-books",
+  "authors": [
+   "habibur-rahman"
+  ],
+  "publisher": "nur-library",
+  "price": 560,
+  "originalPrice": 710,
+  "stock": 0,
+  "sku": "MB226704",
+  "isbn": "978-984-42-6236-3",
+  "language": "English",
+  "pages": 143,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 297,
+  "edition": "2nd edition, 2023",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 144,
+  "featured": false,
+  "soldCount": 129,
+  "createdAt": "2026-10-23",
+  "rating": 3.3,
+  "reviews": [
+   {
+    "id": "r16-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-07-18",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r16-1",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-03-03",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r16-2",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-04-02",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p17",
+  "slug": "book-17-17",
+  "title": "ব্যাংক জব সলিউশন",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "shafiq-uddin",
+   "nazmul-huda"
+  ],
+  "publisher": "alokbortika-prokashoni",
+  "price": 590,
+  "originalPrice": 940,
+  "stock": 39,
+  "sku": "MB234623",
+  "isbn": "978-984-15-2037-3",
+  "language": "Bengali",
+  "pages": 553,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 387,
+  "edition": "1st edition, 2026",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 139,
+  "featured": false,
+  "soldCount": 137,
+  "createdAt": "2026-07-02",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r17-0",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-09-06",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r17-1",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-07-11",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r17-2",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-10-10",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r17-3",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-03-16",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p18",
+  "slug": "primary-teacher-recruitment-guide-18",
+  "title": "Primary Teacher Recruitment Guide",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "selina-parvin"
+  ],
+  "publisher": "medi-prep-press",
+  "price": 520,
+  "originalPrice": 810,
+  "stock": 67,
+  "sku": "MB242542",
+  "isbn": "978-984-79-3874-6",
+  "language": "Bengali, English",
+  "pages": 174,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 520,
+  "edition": "3rd edition, 2024",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 132,
+  "featured": false,
+  "soldCount": 432,
+  "createdAt": "2026-06-18",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r18-0",
+    "name": "Rakib",
+    "rating": 5,
+    "date": "2026-02-03",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r18-1",
+    "name": "Nabila",
+    "rating": 3,
+    "date": "2026-10-23",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r18-2",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-04-14",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r18-3",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-03-27",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p19",
+  "slug": "book-19-19",
+  "title": "নবম–দশম গ্রেড জব প্রস্তুতি",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "kamrul-islam"
+  ],
+  "publisher": "ekushey-prokashon",
+  "price": 80,
+  "originalPrice": 130,
+  "stock": 15,
+  "sku": "MB250461",
+  "isbn": "978-984-41-7831-7",
+  "language": "Bengali",
+  "pages": 227,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 1015,
+  "edition": "2nd edition, 2026",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 123,
+  "featured": false,
+  "soldCount": 889,
+  "createdAt": "2026-02-01",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r19-0",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-01-03",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r19-1",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-04-25",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p20",
+  "slug": "ntrca-shikkhok-nibondhon-guide-20",
+  "title": "NTRCA Shikkhok Nibondhon Guide",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "editorial-board"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 430,
+  "originalPrice": 620,
+  "stock": 65,
+  "sku": "MB258380",
+  "isbn": "978-984-78-7652-0",
+  "language": "English",
+  "pages": 207,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 357,
+  "edition": "3rd edition, 2023",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 116,
+  "featured": false,
+  "soldCount": 709,
+  "createdAt": "2026-04-15",
+  "rating": 3.8,
+  "reviews": [
+   {
+    "id": "r20-0",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-06-08",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r20-1",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-04-17",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r20-2",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-03-12",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r20-3",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-10-20",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p21",
+  "slug": "book-21-21",
+  "title": "চাকরির বাংলা ব্যাকরণ",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "selina-parvin"
+  ],
+  "publisher": "career-ladder-publications",
+  "price": 530,
+  "originalPrice": 980,
+  "stock": 6,
+  "sku": "MB266299",
+  "isbn": "978-984-39-1072-3",
+  "language": "Bengali",
+  "pages": 705,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 944,
+  "edition": "1st edition, 2023",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 119,
+  "featured": false,
+  "soldCount": 797,
+  "createdAt": "2026-04-02",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r21-0",
+    "name": "Jubayer",
+    "rating": 5,
+    "date": "2026-06-04",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r21-1",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-07-10",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p22",
+  "slug": "job-math-made-easy-22",
+  "title": "Job Math Made Easy",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "sajjad-hossain"
+  ],
+  "publisher": "pathshala-press",
+  "price": 190,
+  "originalPrice": 230,
+  "stock": 6,
+  "sku": "MB274218",
+  "isbn": "978-984-40-8355-5",
+  "language": "English",
+  "pages": 408,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 642,
+  "edition": "5th edition, 2026",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 150,
+  "featured": false,
+  "soldCount": 169,
+  "createdAt": "2026-08-11",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r22-0",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-08-11",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p23",
+  "slug": "book-23-23",
+  "title": "সরকারি চাকরির সাধারণ জ্ঞান",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "anisur-rahman"
+  ],
+  "publisher": "lighthouse-academic",
+  "price": 280,
+  "stock": 40,
+  "sku": "MB282137",
+  "isbn": "978-984-37-5259-1",
+  "language": "Bengali",
+  "pages": 449,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 904,
+  "edition": "5th edition, 2025",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 146,
+  "featured": false,
+  "soldCount": 543,
+  "createdAt": "2026-02-08",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r23-0",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-04-18",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r23-1",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-02-18",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r23-2",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-03-22",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p24",
+  "slug": "bank-written-analytical-24",
+  "title": "Bank Written Analytical",
+  "type": "book",
+  "category": "bcs-chakri",
+  "authors": [
+   "imran-kabir"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 220,
+  "originalPrice": 440,
+  "stock": 0,
+  "sku": "MB290056",
+  "isbn": "978-984-61-4383-6",
+  "language": "English",
+  "pages": 563,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 775,
+  "edition": "1st edition, 2024",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 164,
+  "featured": false,
+  "soldCount": 569,
+  "createdAt": "2026-08-16",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r24-0",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-01-08",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r24-1",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-06-03",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r24-2",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-08-21",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r24-3",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-03-25",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p25",
+  "slug": "basic-human-anatomy-notes-25",
+  "title": "Basic Human Anatomy Notes",
+  "type": "book",
+  "category": "medical",
+  "authors": [
+   "ziaul-hoque",
+   "habibur-rahman"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 530,
+  "originalPrice": 770,
+  "stock": 46,
+  "sku": "MB297975",
+  "isbn": "978-984-65-7327-5",
+  "language": "Bengali, English",
+  "pages": 549,
+  "coverType": "Paperback",
+  "size": "8.5x11",
+  "weight": 983,
+  "edition": "5th edition, 2023",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 8,
+  "featured": false,
+  "soldCount": 375,
+  "createdAt": "2026-04-16",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p26",
+  "slug": "book-26-26",
+  "title": "মেডিকেল ফিজিওলজি সহায়িকা",
+  "type": "book",
+  "category": "medical",
+  "authors": [
+   "shirin-sultana"
+  ],
+  "publisher": "nur-library",
+  "price": 530,
+  "originalPrice": 580,
+  "stock": 0,
+  "sku": "MB305894",
+  "isbn": "978-984-16-3958-4",
+  "language": "Bengali",
+  "pages": 686,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 840,
+  "edition": "2nd edition, 2025",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 355,
+  "featured": false,
+  "soldCount": 572,
+  "createdAt": "2026-04-25",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r26-0",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-05-19",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r26-1",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-04-16",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p27",
+  "slug": "pharmacology-at-a-glance-27",
+  "title": "Pharmacology at a Glance",
+  "type": "book",
+  "category": "medical",
+  "authors": [
+   "priya-saha"
+  ],
+  "publisher": "lighthouse-academic",
+  "price": 300,
+  "originalPrice": 540,
+  "stock": 19,
+  "sku": "MB313813",
+  "isbn": "978-984-99-4130-9",
+  "language": "English",
+  "pages": 640,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 317,
+  "edition": "2nd edition, 2025",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 3,
+  "featured": false,
+  "soldCount": 158,
+  "createdAt": "2026-03-15",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r27-0",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-09-17",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r27-1",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-02-13",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r27-2",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-04-20",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r27-3",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-06-21",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p28",
+  "slug": "clinical-medicine-pocket-guide-28",
+  "title": "Clinical Medicine Pocket Guide",
+  "type": "book",
+  "category": "medical",
+  "authors": [
+   "tahmina-begum"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 500,
+  "originalPrice": 580,
+  "stock": 4,
+  "sku": "MB321732",
+  "isbn": "978-984-37-7943-5",
+  "language": "Bengali, English",
+  "pages": 469,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 753,
+  "edition": "2nd edition, 2024",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 347,
+  "featured": false,
+  "soldCount": 884,
+  "createdAt": "2026-02-14",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r28-0",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-03-13",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r28-1",
+    "name": "Fahim",
+    "rating": 4,
+    "date": "2026-08-15",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r28-2",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-08-01",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r28-3",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-06-01",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p29",
+  "slug": "book-29-29",
+  "title": "মেডিকেল বায়োকেমিস্ট্রি",
+  "type": "book",
+  "category": "medical",
+  "authors": [
+   "editorial-board"
+  ],
+  "publisher": "career-ladder-publications",
+  "price": 190,
+  "originalPrice": 260,
+  "stock": 20,
+  "sku": "MB329651",
+  "isbn": "978-984-77-1578-3",
+  "language": "Bengali",
+  "pages": 103,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 420,
+  "edition": "3rd edition, 2023",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 7,
+  "featured": true,
+  "soldCount": 879,
+  "createdAt": "2026-10-26",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p30",
+  "slug": "pathology-review-workbook-30",
+  "title": "Pathology Review Workbook",
+  "type": "book",
+  "category": "medical",
+  "authors": [
+   "nusrat-jahan-mitu"
+  ],
+  "publisher": "nur-library",
+  "price": 460,
+  "originalPrice": 770,
+  "stock": 0,
+  "sku": "MB337570",
+  "isbn": "978-984-38-6822-6",
+  "language": "Bengali, English",
+  "pages": 610,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 982,
+  "edition": "1st edition, 2023",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 352,
+  "featured": false,
+  "soldCount": 43,
+  "createdAt": "2026-03-22",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r30-0",
+    "name": "Sakib",
+    "rating": 4,
+    "date": "2026-04-12",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r30-1",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-05-12",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r30-2",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-03-16",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p31",
+  "slug": "book-31-31",
+  "title": "এসএসসি টেস্ট পেপার",
+  "type": "book",
+  "category": "ssc-hsc",
+  "authors": [
+   "dr-jahid-hasan"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 410,
+  "originalPrice": 440,
+  "stock": 36,
+  "sku": "MB345489",
+  "isbn": "978-984-29-3071-8",
+  "language": "Bengali",
+  "pages": 508,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 913,
+  "edition": "1st edition, 2026",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 219,
+  "featured": false,
+  "soldCount": 150,
+  "createdAt": "2026-07-20",
+  "rating": 3.5,
+  "reviews": [
+   {
+    "id": "r31-0",
+    "name": "Nabila",
+    "rating": 3,
+    "date": "2026-05-12",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r31-1",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-08-14",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r31-2",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-07-15",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r31-3",
+    "name": "Fahim",
+    "rating": 3,
+    "date": "2026-08-07",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p32",
+  "slug": "hsc-physics-1st-paper-guide-32",
+  "title": "HSC Physics 1st Paper Guide",
+  "type": "book",
+  "category": "ssc-hsc",
+  "authors": [
+   "rafiqul-hasan",
+   "arif-hossain"
+  ],
+  "publisher": "alokbortika-prokashoni",
+  "price": 620,
+  "stock": 69,
+  "sku": "MB353408",
+  "isbn": "978-984-80-9121-1",
+  "language": "Bengali, English",
+  "pages": 240,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 212,
+  "edition": "5th edition, 2026",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 195,
+  "featured": false,
+  "soldCount": 572,
+  "createdAt": "2026-02-03",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r32-0",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-02-14",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r32-1",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-01-02",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r32-2",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-05-02",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p33",
+  "slug": "book-33-33",
+  "title": "এসএসসি গণিত সমাধান",
+  "type": "book",
+  "category": "ssc-hsc",
+  "authors": [
+   "kamrul-islam"
+  ],
+  "publisher": "career-ladder-publications",
+  "price": 100,
+  "stock": 54,
+  "sku": "MB361327",
+  "isbn": "978-984-32-3241-1",
+  "language": "Bengali",
+  "pages": 124,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 919,
+  "edition": "2nd edition, 2026",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 217,
+  "featured": false,
+  "soldCount": 14,
+  "createdAt": "2026-02-18",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p34",
+  "slug": "hsc-english-grammar-practice-34",
+  "title": "HSC English Grammar Practice",
+  "type": "book",
+  "category": "ssc-hsc",
+  "authors": [
+   "rumana-ferdous",
+   "mostafa-kamal"
+  ],
+  "publisher": "bornomala-books",
+  "price": 280,
+  "originalPrice": 390,
+  "stock": 6,
+  "sku": "MB369246",
+  "isbn": "978-984-54-9608-6",
+  "language": "Bengali, English",
+  "pages": 218,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 541,
+  "edition": "5th edition, 2026",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 196,
+  "featured": false,
+  "soldCount": 732,
+  "createdAt": "2026-05-08",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p35",
+  "slug": "book-35-35",
+  "title": "দাখিল সাজেশন",
+  "type": "book",
+  "category": "ssc-hsc",
+  "authors": [
+   "moinul-ahsan",
+   "rumana-ferdous"
+  ],
+  "publisher": "shikkha-path-publications",
+  "price": 670,
+  "originalPrice": 1020,
+  "stock": 24,
+  "sku": "MB377165",
+  "isbn": "978-984-49-3702-6",
+  "language": "Bengali",
+  "pages": 269,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 945,
+  "edition": "2nd edition, 2025",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 236,
+  "featured": true,
+  "soldCount": 200,
+  "createdAt": "2026-02-18",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r35-0",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-07-18",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p36",
+  "slug": "hsc-ict-made-simple-36",
+  "title": "HSC ICT Made Simple",
+  "type": "book",
+  "category": "ssc-hsc",
+  "authors": [
+   "nadia-islam"
+  ],
+  "publisher": "medi-prep-press",
+  "price": 630,
+  "originalPrice": 690,
+  "stock": 76,
+  "sku": "MB385084",
+  "isbn": "978-984-14-3419-4",
+  "language": "Bengali, English",
+  "pages": 669,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 787,
+  "edition": "2nd edition, 2026",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 224,
+  "featured": false,
+  "soldCount": 282,
+  "createdAt": "2026-10-12",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r36-0",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-09-24",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p37",
+  "slug": "book-37-37",
+  "title": "উচ্চতর গণিত পরিচিতি",
+  "type": "book",
+  "category": "academic",
+  "authors": [
+   "moinul-ahsan"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 370,
+  "originalPrice": 660,
+  "stock": 66,
+  "sku": "MB393003",
+  "isbn": "978-984-89-5274-5",
+  "language": "Bengali",
+  "pages": 685,
+  "coverType": "Paperback",
+  "size": "8.5x11",
+  "weight": 218,
+  "edition": "1st edition, 2024",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 267,
+  "featured": false,
+  "soldCount": 548,
+  "createdAt": "2026-04-24",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p38",
+  "slug": "introduction-to-economics-38",
+  "title": "Introduction to Economics",
+  "type": "book",
+  "category": "academic",
+  "authors": [
+   "imran-kabir"
+  ],
+  "publisher": "pathshala-press",
+  "price": 450,
+  "originalPrice": 470,
+  "stock": 33,
+  "sku": "MB400922",
+  "isbn": "978-984-21-4551-5",
+  "language": "English",
+  "pages": 597,
+  "coverType": "Paperback",
+  "size": "8.5x11",
+  "weight": 472,
+  "edition": "1st edition, 2024",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 252,
+  "featured": true,
+  "soldCount": 625,
+  "createdAt": "2026-01-26",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r38-0",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-07-19",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r38-1",
+    "name": "Hasib",
+    "rating": 5,
+    "date": "2026-09-14",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p39",
+  "slug": "book-39-39",
+  "title": "বাংলাদেশের ইতিহাস ও সংস্কৃতি",
+  "type": "book",
+  "category": "academic",
+  "authors": [
+   "rumana-ferdous",
+   "rafiqul-hasan"
+  ],
+  "publisher": "lighthouse-academic",
+  "price": 620,
+  "originalPrice": 770,
+  "stock": 32,
+  "sku": "MB408841",
+  "isbn": "978-984-86-9555-6",
+  "language": "Bengali",
+  "pages": 537,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 389,
+  "edition": "5th edition, 2023",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 262,
+  "featured": true,
+  "soldCount": 685,
+  "createdAt": "2026-02-06",
+  "rating": 4.8,
+  "reviews": [
+   {
+    "id": "r39-0",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-03-15",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r39-1",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-05-03",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r39-2",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-04-11",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r39-3",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-03-19",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p40",
+  "slug": "principles-of-accounting-40",
+  "title": "Principles of Accounting",
+  "type": "book",
+  "category": "academic",
+  "authors": [
+   "ziaul-hoque"
+  ],
+  "publisher": "lighthouse-academic",
+  "price": 670,
+  "originalPrice": 890,
+  "stock": 64,
+  "sku": "MB416760",
+  "isbn": "978-984-31-8530-3",
+  "language": "English",
+  "pages": 688,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 1039,
+  "edition": "3rd edition, 2023",
+  "description": [
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 247,
+  "featured": false,
+  "soldCount": 696,
+  "createdAt": "2026-08-05",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r40-0",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-06-16",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r40-1",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-07-14",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r40-2",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-02-11",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p41",
+  "slug": "book-41-41",
+  "title": "সমাজবিজ্ঞানের মূলকথা",
+  "type": "book",
+  "category": "academic",
+  "authors": [
+   "editorial-board"
+  ],
+  "publisher": "nur-library",
+  "price": 410,
+  "originalPrice": 530,
+  "stock": 28,
+  "sku": "MB424679",
+  "isbn": "978-984-27-5678-0",
+  "language": "Bengali",
+  "pages": 415,
+  "coverType": "Paperback",
+  "size": "8.5x11",
+  "weight": 517,
+  "edition": "3rd edition, 2026",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 261,
+  "featured": false,
+  "soldCount": 753,
+  "createdAt": "2026-09-22",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r41-0",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-09-14",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r41-1",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-06-21",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r41-2",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-03-15",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p42",
+  "slug": "business-communication-basics-42",
+  "title": "Business Communication Basics",
+  "type": "book",
+  "category": "academic",
+  "authors": [
+   "priya-saha"
+  ],
+  "publisher": "nur-library",
+  "price": 520,
+  "originalPrice": 760,
+  "stock": 56,
+  "sku": "MB432598",
+  "isbn": "978-984-32-8505-9",
+  "language": "Bengali, English",
+  "pages": 119,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 983,
+  "edition": "2nd edition, 2025",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 281,
+  "featured": true,
+  "soldCount": 811,
+  "createdAt": "2026-07-17",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r42-0",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-02-24",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r42-1",
+    "name": "Jubayer",
+    "rating": 5,
+    "date": "2026-08-06",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r42-2",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-09-18",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p43",
+  "slug": "book-43-43",
+  "title": "নদীর ওপারে আলো",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "sabrina-karim",
+   "selina-parvin"
+  ],
+  "publisher": "career-ladder-publications",
+  "price": 370,
+  "stock": 46,
+  "sku": "MB440517",
+  "isbn": "978-984-32-4236-7",
+  "language": "Bengali",
+  "pages": 608,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 556,
+  "edition": "5th edition, 2025",
+  "description": [
+   "Short pieces that move between city streets and village evenings, full of humour and tenderness.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 332,
+  "featured": false,
+  "soldCount": 425,
+  "createdAt": "2026-01-15",
+  "rating": 5,
+  "reviews": [
+   {
+    "id": "r43-0",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-03-13",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p44",
+  "slug": "book-44-44",
+  "title": "শহরের শেষ বিকেল",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "ayesha-siddika"
+  ],
+  "publisher": "medi-prep-press",
+  "price": 520,
+  "originalPrice": 600,
+  "stock": 42,
+  "sku": "MB448436",
+  "isbn": "978-984-48-9249-0",
+  "language": "Bengali",
+  "pages": 638,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 393,
+  "edition": "3rd edition, 2025",
+  "description": [
+   "Told across one monsoon season, the book follows three friends as their town begins to change.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 318,
+  "featured": false,
+  "soldCount": 563,
+  "createdAt": "2026-02-14",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r44-0",
+    "name": "Fahim",
+    "rating": 5,
+    "date": "2026-10-27",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r44-1",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-03-11",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r44-2",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-05-01",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r44-3",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-10-27",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p45",
+  "slug": "book-45-45",
+  "title": "মেঘলা দিনের চিঠি",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "selina-parvin"
+  ],
+  "publisher": "career-ladder-publications",
+  "price": 210,
+  "originalPrice": 220,
+  "stock": 33,
+  "sku": "MB456355",
+  "isbn": "978-984-41-8689-8",
+  "language": "Bengali",
+  "pages": 358,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 565,
+  "edition": "2nd edition, 2026",
+  "description": [
+   "Told across one monsoon season, the book follows three friends as their town begins to change.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 296,
+  "featured": false,
+  "soldCount": 555,
+  "createdAt": "2026-11-22",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r45-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-02-20",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r45-1",
+    "name": "Jubayer",
+    "rating": 5,
+    "date": "2026-03-02",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r45-2",
+    "name": "Nabila",
+    "rating": 3,
+    "date": "2026-03-01",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p46",
+  "slug": "the-lantern-seller-46",
+  "title": "The Lantern Seller",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "anisur-rahman"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 500,
+  "originalPrice": 660,
+  "stock": 19,
+  "sku": "MB464274",
+  "isbn": "978-984-16-8469-2",
+  "language": "English",
+  "pages": 591,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 234,
+  "edition": "1st edition, 2023",
+  "description": [
+   "Short pieces that move between city streets and village evenings, full of humour and tenderness.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 323,
+  "featured": false,
+  "soldCount": 430,
+  "createdAt": "2026-08-07",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r46-0",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-05-11",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p47",
+  "slug": "book-47-47",
+  "title": "জোনাকির গান",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "mahbub-alam"
+  ],
+  "publisher": "bornomala-books",
+  "price": 700,
+  "originalPrice": 790,
+  "stock": 76,
+  "sku": "MB472193",
+  "isbn": "978-984-44-5674-6",
+  "language": "Bengali",
+  "pages": 236,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 448,
+  "edition": "3rd edition, 2024",
+  "description": [
+   "Told across one monsoon season, the book follows three friends as their town begins to change.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 312,
+  "featured": false,
+  "soldCount": 152,
+  "createdAt": "2026-02-10",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r47-0",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-04-11",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r47-1",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-10-06",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p48",
+  "slug": "book-48-48",
+  "title": "বৃষ্টিভেজা পথ",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "dr-jahid-hasan"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 260,
+  "originalPrice": 310,
+  "stock": 77,
+  "sku": "MB480112",
+  "isbn": "978-984-25-9709-8",
+  "language": "Bengali",
+  "pages": 305,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 308,
+  "edition": "5th edition, 2024",
+  "description": [
+   "Short pieces that move between city streets and village evenings, full of humour and tenderness.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 306,
+  "featured": false,
+  "soldCount": 69,
+  "createdAt": "2026-01-01",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r48-0",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-06-28",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r48-1",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-03-09",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r48-2",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-08-20",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r48-3",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-02-03",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p49",
+  "slug": "a-house-by-the-river-49",
+  "title": "A House by the River",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "lubna-yasmin"
+  ],
+  "publisher": "lighthouse-academic",
+  "price": 110,
+  "originalPrice": 190,
+  "stock": 31,
+  "sku": "MB488031",
+  "isbn": "978-984-53-9868-3",
+  "language": "English",
+  "pages": 433,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 1138,
+  "edition": "2nd edition, 2025",
+  "description": [
+   "Told across one monsoon season, the book follows three friends as their town begins to change.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 313,
+  "featured": false,
+  "soldCount": 633,
+  "createdAt": "2026-11-06",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r49-0",
+    "name": "Hasib",
+    "rating": 5,
+    "date": "2026-05-03",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r49-1",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-04-20",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p50",
+  "slug": "book-50-50",
+  "title": "নীল খামের কবিতা",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "ziaul-hoque"
+  ],
+  "publisher": "pathshala-press",
+  "price": 500,
+  "originalPrice": 930,
+  "stock": 10,
+  "sku": "MB495950",
+  "isbn": "978-984-22-6627-2",
+  "language": "Bengali",
+  "pages": 717,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 1158,
+  "edition": "5th edition, 2024",
+  "description": [
+   "Told across one monsoon season, the book follows three friends as their town begins to change.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 323,
+  "featured": false,
+  "soldCount": 530,
+  "createdAt": "2026-09-21",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r50-0",
+    "name": "Mim",
+    "rating": 4,
+    "date": "2026-04-17",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r50-1",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-03-13",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p51",
+  "slug": "book-51-51",
+  "title": "ভোরের ট্রেন",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "mehedi-rahman"
+  ],
+  "publisher": "nur-library",
+  "price": 200,
+  "originalPrice": 250,
+  "stock": 39,
+  "sku": "MB503869",
+  "isbn": "978-984-88-6091-2",
+  "language": "Bengali",
+  "pages": 144,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 350,
+  "edition": "1st edition, 2023",
+  "description": [
+   "A quiet, moving story about family, distance and the small decisions that shape a life.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 319,
+  "featured": false,
+  "soldCount": 605,
+  "createdAt": "2026-10-16",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r51-0",
+    "name": "Fahim",
+    "rating": 3,
+    "date": "2026-04-26",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p52",
+  "slug": "salt-and-monsoon-52",
+  "title": "Salt and Monsoon",
+  "type": "book",
+  "category": "golpo-kobita-uponnash",
+  "authors": [
+   "sajjad-hossain"
+  ],
+  "publisher": "ekushey-prokashon",
+  "price": 640,
+  "originalPrice": 790,
+  "stock": 69,
+  "sku": "MB511788",
+  "isbn": "978-984-23-2485-0",
+  "language": "Bengali, English",
+  "pages": 101,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 193,
+  "edition": "3rd edition, 2025",
+  "description": [
+   "Short pieces that move between city streets and village evenings, full of humour and tenderness.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 300,
+  "featured": false,
+  "soldCount": 281,
+  "createdAt": "2026-05-16",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r52-0",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-01-15",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p53",
+  "slug": "book-53-53",
+  "title": "সহজ নামাজ শিক্ষা",
+  "type": "book",
+  "category": "islamic-boi",
+  "authors": [
+   "abdullah-al-noman"
+  ],
+  "publisher": "shobuj-pata",
+  "price": 430,
+  "originalPrice": 800,
+  "stock": 74,
+  "sku": "MB519707",
+  "isbn": "978-984-10-6498-2",
+  "language": "Bengali",
+  "pages": 139,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 1119,
+  "edition": "2nd edition, 2025",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 111,
+  "featured": false,
+  "soldCount": 4,
+  "createdAt": "2026-02-07",
+  "rating": 3.5,
+  "reviews": [
+   {
+    "id": "r53-0",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-08-07",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r53-1",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-05-20",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p54",
+  "slug": "daily-duas-collection-54",
+  "title": "Daily Duas Collection",
+  "type": "book",
+  "category": "islamic-boi",
+  "authors": [
+   "mehedi-rahman",
+   "dr-jahid-hasan"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 320,
+  "originalPrice": 340,
+  "stock": 16,
+  "sku": "MB527626",
+  "isbn": "978-984-24-2803-1",
+  "language": "Bengali, English",
+  "pages": 577,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 404,
+  "edition": "2nd edition, 2026",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 128,
+  "featured": false,
+  "soldCount": 608,
+  "createdAt": "2026-04-22",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r54-0",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-07-17",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p55",
+  "slug": "book-55-55",
+  "title": "নবীজির জীবনকথা",
+  "type": "book",
+  "category": "islamic-boi",
+  "authors": [
+   "rumana-ferdous"
+  ],
+  "publisher": "career-ladder-publications",
+  "price": 140,
+  "stock": 64,
+  "sku": "MB535545",
+  "isbn": "978-984-39-3607-3",
+  "language": "Bengali",
+  "pages": 144,
+  "coverType": "Paperback",
+  "size": "7x10",
+  "weight": 800,
+  "edition": "5th edition, 2023",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 139,
+  "featured": false,
+  "soldCount": 745,
+  "createdAt": "2026-11-15",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r55-0",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-08-21",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r55-1",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-04-23",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p56",
+  "slug": "book-56-56",
+  "title": "রমজানের প্রস্তুতি",
+  "type": "book",
+  "category": "islamic-boi",
+  "authors": [
+   "priya-saha"
+  ],
+  "publisher": "kagoj-kolom",
+  "price": 210,
+  "originalPrice": 310,
+  "stock": 63,
+  "sku": "MB543464",
+  "isbn": "978-984-50-5455-2",
+  "language": "Bengali",
+  "pages": 113,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 162,
+  "edition": "1st edition, 2024",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Written in simple language so that readers can follow the ideas without a tutor, with summaries at the end of each section."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 135,
+  "featured": false,
+  "soldCount": 671,
+  "createdAt": "2026-07-10",
+  "rating": 3.8,
+  "reviews": [
+   {
+    "id": "r56-0",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-06-26",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r56-1",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-04-18",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r56-2",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-09-09",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r56-3",
+    "name": "Mim",
+    "rating": 4,
+    "date": "2026-02-09",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p57",
+  "slug": "stories-of-the-prophets-for-kids-57",
+  "title": "Stories of the Prophets for Kids",
+  "type": "book",
+  "category": "islamic-boi",
+  "authors": [
+   "shafiq-uddin"
+  ],
+  "publisher": "pathshala-press",
+  "price": 610,
+  "originalPrice": 1000,
+  "stock": 52,
+  "sku": "MB551383",
+  "isbn": "978-984-99-5530-2",
+  "language": "English",
+  "pages": 584,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 555,
+  "edition": "3rd edition, 2026",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 122,
+  "featured": false,
+  "soldCount": 754,
+  "createdAt": "2026-06-13",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r57-0",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-01-21",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r57-1",
+    "name": "Nabila",
+    "rating": 3,
+    "date": "2026-01-04",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r57-2",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-09-05",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p58",
+  "slug": "book-58-58",
+  "title": "হাদিসের আলো",
+  "type": "book",
+  "category": "islamic-boi",
+  "authors": [
+   "moinul-ahsan"
+  ],
+  "publisher": "ekushey-prokashon",
+  "price": 300,
+  "originalPrice": 420,
+  "stock": 21,
+  "sku": "MB559302",
+  "isbn": "978-984-25-4907-9",
+  "language": "Bengali",
+  "pages": 158,
+  "coverType": "Paperback",
+  "size": "5.5x8.5",
+  "weight": 648,
+  "edition": "2nd edition, 2024",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 2,
+  "hue": 138,
+  "featured": false,
+  "soldCount": 330,
+  "createdAt": "2026-09-21",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r58-0",
+    "name": "Hasib",
+    "rating": 5,
+    "date": "2026-08-12",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r58-1",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-01-07",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r58-2",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-06-25",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p59",
+  "slug": "everyday-english-idioms-59",
+  "title": "Everyday English Idioms",
+  "type": "book",
+  "category": "english-learning",
+  "authors": [
+   "arif-hossain"
+  ],
+  "publisher": "bornomala-books",
+  "price": 290,
+  "originalPrice": 580,
+  "stock": 26,
+  "sku": "MB567221",
+  "isbn": "978-984-79-3504-8",
+  "language": "Bengali, English",
+  "pages": 316,
+  "coverType": "Paperback",
+  "size": "8.5x11",
+  "weight": 841,
+  "edition": "1st edition, 2025",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 53,
+  "featured": true,
+  "soldCount": 646,
+  "createdAt": "2026-11-28",
+  "rating": 3.3,
+  "reviews": [
+   {
+    "id": "r59-0",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-09-26",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r59-1",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-01-23",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r59-2",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-01-01",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p60",
+  "slug": "spoken-english-in-30-days-60",
+  "title": "Spoken English in 30 Days",
+  "type": "book",
+  "category": "english-learning",
+  "authors": [
+   "mahbub-alam"
+  ],
+  "publisher": "kagoj-kolom",
+  "price": 590,
+  "originalPrice": 1040,
+  "stock": 17,
+  "sku": "MB575140",
+  "isbn": "978-984-46-9835-8",
+  "language": "Bengali, English",
+  "pages": 334,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 477,
+  "edition": "1st edition, 2024",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 65,
+  "featured": true,
+  "soldCount": 269,
+  "createdAt": "2026-10-01",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p61",
+  "slug": "vocabulary-builder-3000-61",
+  "title": "Vocabulary Builder 3000",
+  "type": "book",
+  "category": "english-learning",
+  "authors": [
+   "abdullah-al-noman",
+   "mahbub-alam"
+  ],
+  "publisher": "pathshala-press",
+  "price": 150,
+  "originalPrice": 240,
+  "stock": 4,
+  "sku": "MB583059",
+  "isbn": "978-984-96-4594-7",
+  "language": "Bengali, English",
+  "pages": 562,
+  "coverType": "Hardcover",
+  "size": "5.5x8.5",
+  "weight": 1150,
+  "edition": "5th edition, 2025",
+  "description": [
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 31,
+  "featured": false,
+  "soldCount": 643,
+  "createdAt": "2026-10-08",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p62",
+  "slug": "english-grammar-workbook-62",
+  "title": "English Grammar Workbook",
+  "type": "book",
+  "category": "english-learning",
+  "authors": [
+   "joynal-abedin",
+   "mahbub-alam"
+  ],
+  "publisher": "pathshala-press",
+  "price": 640,
+  "stock": 50,
+  "sku": "MB590978",
+  "isbn": "978-984-56-5640-5",
+  "language": "Bengali, English",
+  "pages": 333,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 1153,
+  "edition": "3rd edition, 2025",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Includes recent-year question analysis and model tests that mirror the real exam format."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 3,
+  "hue": 25,
+  "featured": true,
+  "soldCount": 4,
+  "createdAt": "2026-07-12",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r62-0",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-09-18",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p63",
+  "slug": "writing-clear-paragraphs-63",
+  "title": "Writing Clear Paragraphs",
+  "type": "book",
+  "category": "english-learning",
+  "authors": [
+   "priya-saha"
+  ],
+  "publisher": "bornomala-books",
+  "price": 280,
+  "originalPrice": 550,
+  "stock": 3,
+  "sku": "MB598897",
+  "isbn": "978-984-46-9629-7",
+  "language": "English",
+  "pages": 391,
+  "coverType": "Hardcover",
+  "size": "8.5x11",
+  "weight": 275,
+  "edition": "1st edition, 2023",
+  "description": [
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit.",
+   "Organised chapter by chapter with worked examples, quick revision notes and practice questions after every unit."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 4,
+  "hue": 34,
+  "featured": false,
+  "soldCount": 785,
+  "createdAt": "2026-11-16",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r63-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-03-20",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r63-1",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-06-19",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r63-2",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-10-03",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p64",
+  "slug": "phrasal-verbs-in-context-64",
+  "title": "Phrasal Verbs in Context",
+  "type": "book",
+  "category": "english-learning",
+  "authors": [
+   "ayesha-siddika"
+  ],
+  "publisher": "nodi-prokash",
+  "price": 510,
+  "stock": 23,
+  "sku": "MB606816",
+  "isbn": "978-984-46-2672-0",
+  "language": "English",
+  "pages": 190,
+  "coverType": "Hardcover",
+  "size": "7x10",
+  "weight": 993,
+  "edition": "2nd edition, 2023",
+  "description": [
+   "Includes recent-year question analysis and model tests that mirror the real exam format.",
+   "A carefully edited edition with improved layout, clearer diagrams and an index for quick lookup."
+  ],
+  "highlights": [
+   "Updated syllabus coverage",
+   "Practice questions with answers",
+   "Clear print on quality paper"
+  ],
+  "images": 5,
+  "hue": 55,
+  "featured": false,
+  "soldCount": 766,
+  "createdAt": "2026-04-22",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r64-0",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-04-08",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r64-1",
+    "name": "Sumaiya",
+    "rating": 5,
+    "date": "2026-07-08",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r64-2",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-08-14",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r64-3",
+    "name": "Sumaiya",
+    "rating": 5,
+    "date": "2026-05-09",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p65",
+  "slug": "hb-graphite-pencil-12-pcs-65",
+  "title": "HB Graphite Pencil 12 pcs",
+  "type": "general",
+  "category": "pencil",
+  "authors": [],
+  "brand": "keynest",
+  "price": 290,
+  "originalPrice": 410,
+  "stock": 0,
+  "sku": "MB614735",
+  "grade": "A",
+  "origin": "China",
+  "weight": 442,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Pencil. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 38,
+  "featured": false,
+  "soldCount": 461,
+  "createdAt": "2026-06-06",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r65-0",
+    "name": "Sumaiya",
+    "rating": 3,
+    "date": "2026-08-14",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r65-1",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-05-07",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r65-2",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-08-02",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p66",
+  "slug": "2b-drawing-pencil-set-66",
+  "title": "2B Drawing Pencil Set",
+  "type": "general",
+  "category": "pencil",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 290,
+  "originalPrice": 330,
+  "stock": 56,
+  "sku": "MB622654",
+  "grade": "A",
+  "origin": "China",
+  "weight": 886,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Pencil. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 42,
+  "featured": false,
+  "soldCount": 846,
+  "createdAt": "2026-10-14",
+  "rating": 3.8,
+  "reviews": [
+   {
+    "id": "r66-0",
+    "name": "Fahim",
+    "rating": 3,
+    "date": "2026-07-16",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r66-1",
+    "name": "Rakib",
+    "rating": 5,
+    "date": "2026-01-27",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r66-2",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-06-01",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r66-3",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-01-23",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p67",
+  "slug": "mechanical-pencil-0-5mm-67",
+  "title": "Mechanical Pencil 0.5mm",
+  "type": "general",
+  "category": "pencil",
+  "authors": [],
+  "brand": "pixon",
+  "price": 230,
+  "stock": 77,
+  "sku": "MB630573",
+  "grade": "A+",
+  "origin": "China",
+  "weight": 426,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Pencil. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 70,
+  "featured": true,
+  "soldCount": 80,
+  "createdAt": "2026-05-08",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r67-0",
+    "name": "Mim",
+    "rating": 4,
+    "date": "2026-03-05",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p68",
+  "slug": "colour-pencil-24-shades-68",
+  "title": "Colour Pencil 24 Shades",
+  "type": "general",
+  "category": "pencil",
+  "authors": [],
+  "brand": "nibha",
+  "price": 4410,
+  "originalPrice": 8650,
+  "stock": 53,
+  "sku": "MB638492",
+  "grade": "A",
+  "origin": "China",
+  "weight": 857,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Pencil. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 61,
+  "featured": false,
+  "soldCount": 779,
+  "createdAt": "2026-03-24",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r68-0",
+    "name": "Fahim",
+    "rating": 4,
+    "date": "2026-05-27",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p69",
+  "slug": "gel-pen-blue-10-pcs-69",
+  "title": "Gel Pen Blue 10 pcs",
+  "type": "general",
+  "category": "pen-1",
+  "authors": [],
+  "brand": "gharowa",
+  "price": 10430,
+  "stock": 24,
+  "sku": "MB646411",
+  "grade": "A+",
+  "origin": "International",
+  "weight": 709,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Pen. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 205,
+  "featured": false,
+  "soldCount": 45,
+  "createdAt": "2026-02-23",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r69-0",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-01-19",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r69-1",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-06-21",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r69-2",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-04-04",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p70",
+  "slug": "ball-pen-black-box-70",
+  "title": "Ball Pen Black Box",
+  "type": "general",
+  "category": "pen-1",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 150,
+  "stock": 0,
+  "sku": "MB654330",
+  "grade": "Standard",
+  "origin": "Bangladesh",
+  "weight": 544,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Pen. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 226,
+  "featured": false,
+  "soldCount": 295,
+  "createdAt": "2026-06-04",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r70-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-06-12",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p71",
+  "slug": "fountain-pen-classic-71",
+  "title": "Fountain Pen Classic",
+  "type": "general",
+  "category": "pen-1",
+  "authors": [],
+  "brand": "orbit-gear",
+  "price": 10760,
+  "originalPrice": 12370,
+  "stock": 21,
+  "sku": "MB662249",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 493,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Pen. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 234,
+  "featured": true,
+  "soldCount": 328,
+  "createdAt": "2026-10-09",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p72",
+  "slug": "whiteboard-marker-set-72",
+  "title": "Whiteboard Marker Set",
+  "type": "general",
+  "category": "pen-1",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 10420,
+  "stock": 22,
+  "sku": "MB670168",
+  "grade": "Standard",
+  "origin": "Bangladesh",
+  "weight": 695,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Pen. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 213,
+  "featured": false,
+  "soldCount": 326,
+  "createdAt": "2026-07-01",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r72-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-02-04",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r72-1",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-08-11",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r72-2",
+    "name": "Rakib",
+    "rating": 5,
+    "date": "2026-02-25",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p73",
+  "slug": "watercolour-cake-set-18-73",
+  "title": "Watercolour Cake Set 18",
+  "type": "general",
+  "category": "painting-drawing-art-supplies",
+  "authors": [],
+  "brand": "bagan-foods",
+  "price": 2160,
+  "stock": 77,
+  "sku": "MB678087",
+  "grade": "A",
+  "origin": "International",
+  "weight": 743,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Painting, Drawing & Art Supplies. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 276,
+  "featured": false,
+  "soldCount": 814,
+  "createdAt": "2026-05-19",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p74",
+  "slug": "acrylic-paint-12-tubes-74",
+  "title": "Acrylic Paint 12 Tubes",
+  "type": "general",
+  "category": "painting-drawing-art-supplies",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 390,
+  "originalPrice": 450,
+  "stock": 33,
+  "sku": "MB686006",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 823,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Painting, Drawing & Art Supplies. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 275,
+  "featured": false,
+  "soldCount": 76,
+  "createdAt": "2026-03-14",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r74-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-10-06",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p75",
+  "slug": "sketch-book-a4-120gsm-75",
+  "title": "Sketch Book A4 120gsm",
+  "type": "general",
+  "category": "painting-drawing-art-supplies",
+  "authors": [],
+  "brand": "chamra-craft",
+  "price": 1280,
+  "stock": 23,
+  "sku": "MB693925",
+  "grade": "A",
+  "origin": "Bangladesh",
+  "weight": 123,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Painting, Drawing & Art Supplies. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 284,
+  "featured": false,
+  "soldCount": 764,
+  "createdAt": "2026-07-08",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r75-0",
+    "name": "Sumaiya",
+    "rating": 5,
+    "date": "2026-07-04",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r75-1",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-01-05",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r75-2",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-02-23",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r75-3",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-08-05",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p76",
+  "slug": "mini-wooden-easel-76",
+  "title": "Mini Wooden Easel",
+  "type": "general",
+  "category": "painting-drawing-art-supplies",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 4710,
+  "originalPrice": 7480,
+  "stock": 11,
+  "sku": "MB701844",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 553,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Painting, Drawing & Art Supplies. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 278,
+  "featured": true,
+  "soldCount": 579,
+  "createdAt": "2026-09-07",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r76-0",
+    "name": "Tania",
+    "rating": 5,
+    "date": "2026-10-11",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r76-1",
+    "name": "Sakib",
+    "rating": 4,
+    "date": "2026-07-10",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p77",
+  "slug": "brush-set-10-pcs-77",
+  "title": "Brush Set 10 pcs",
+  "type": "general",
+  "category": "painting-drawing-art-supplies",
+  "authors": [],
+  "brand": "tasbeeh",
+  "price": 230,
+  "stock": 57,
+  "sku": "MB709763",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 778,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Painting, Drawing & Art Supplies. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 306,
+  "featured": true,
+  "soldCount": 890,
+  "createdAt": "2026-05-19",
+  "rating": 5,
+  "reviews": [
+   {
+    "id": "r77-0",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-02-06",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p78",
+  "slug": "scientific-calculator-991-78",
+  "title": "Scientific Calculator 991",
+  "type": "general",
+  "category": "calculator",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 2440,
+  "stock": 14,
+  "sku": "MB717682",
+  "grade": "A+",
+  "origin": "China",
+  "weight": 119,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Calculator. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 199,
+  "featured": false,
+  "soldCount": 862,
+  "createdAt": "2026-03-04",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r78-0",
+    "name": "Fahim",
+    "rating": 5,
+    "date": "2026-09-11",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r78-1",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-05-11",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p79",
+  "slug": "desktop-calculator-12-digit-79",
+  "title": "Desktop Calculator 12 Digit",
+  "type": "general",
+  "category": "calculator",
+  "authors": [],
+  "brand": "orbit-gear",
+  "price": 160,
+  "originalPrice": 240,
+  "stock": 16,
+  "sku": "MB725601",
+  "grade": "Standard",
+  "origin": "China",
+  "weight": 238,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Calculator. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 195,
+  "featured": false,
+  "soldCount": 33,
+  "createdAt": "2026-11-05",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r79-0",
+    "name": "Nabila",
+    "rating": 3,
+    "date": "2026-05-11",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r79-1",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-08-03",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p80",
+  "slug": "pocket-calculator-80",
+  "title": "Pocket Calculator",
+  "type": "general",
+  "category": "calculator",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 250,
+  "stock": 69,
+  "sku": "MB733520",
+  "grade": "A",
+  "origin": "International",
+  "weight": 488,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Calculator. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 175,
+  "featured": false,
+  "soldCount": 126,
+  "createdAt": "2026-11-15",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p81",
+  "slug": "brown-envelope-pack-50-81",
+  "title": "Brown Envelope Pack 50",
+  "type": "general",
+  "category": "paper-files",
+  "authors": [],
+  "brand": "tasbeeh",
+  "price": 1550,
+  "stock": 0,
+  "sku": "MB741439",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 612,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Paper & Files. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 48,
+  "featured": true,
+  "soldCount": 275,
+  "createdAt": "2026-10-22",
+  "rating": 3.3,
+  "reviews": [
+   {
+    "id": "r81-0",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-10-26",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r81-1",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-06-26",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r81-2",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-02-06",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p82",
+  "slug": "clear-document-bag-82",
+  "title": "Clear Document Bag",
+  "type": "general",
+  "category": "paper-files",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 1020,
+  "stock": 20,
+  "sku": "MB749358",
+  "grade": "A+",
+  "origin": "China",
+  "weight": 510,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Paper & Files. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 14,
+  "featured": false,
+  "soldCount": 390,
+  "createdAt": "2026-03-21",
+  "rating": 3.5,
+  "reviews": [
+   {
+    "id": "r82-0",
+    "name": "Mim",
+    "rating": 4,
+    "date": "2026-01-28",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r82-1",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-04-18",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p83",
+  "slug": "spiral-notebook-200-pages-83",
+  "title": "Spiral Notebook 200 Pages",
+  "type": "general",
+  "category": "paper-files",
+  "authors": [],
+  "brand": "pixon",
+  "price": 100,
+  "originalPrice": 120,
+  "stock": 18,
+  "sku": "MB757277",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 477,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Paper & Files. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 34,
+  "featured": true,
+  "soldCount": 104,
+  "createdAt": "2026-02-27",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p84",
+  "slug": "mdf-clip-board-a4-84",
+  "title": "MDF Clip Board A4",
+  "type": "general",
+  "category": "paper-files",
+  "authors": [],
+  "brand": "voltkin",
+  "price": 2430,
+  "originalPrice": 2860,
+  "stock": 60,
+  "sku": "MB765196",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 244,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Paper & Files. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 34,
+  "featured": false,
+  "soldCount": 60,
+  "createdAt": "2026-11-26",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r84-0",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-10-16",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p85",
+  "slug": "fit-pro-smart-watch-1-9-85",
+  "title": "Fit Pro Smart Watch 1.9\"",
+  "type": "general",
+  "category": "smartwatch",
+  "authors": [],
+  "brand": "keynest",
+  "price": 490,
+  "stock": 65,
+  "sku": "MB773115",
+  "grade": "Standard",
+  "origin": "China",
+  "weight": 485,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Smartwatch. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 243,
+  "featured": false,
+  "soldCount": 784,
+  "createdAt": "2026-04-07",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r85-0",
+    "name": "Sumaiya",
+    "rating": 3,
+    "date": "2026-07-20",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p86",
+  "slug": "smart-band-lite-86",
+  "title": "Smart Band Lite",
+  "type": "general",
+  "category": "smartwatch",
+  "authors": [],
+  "brand": "kolomdani",
+  "price": 120,
+  "stock": 63,
+  "sku": "MB781034",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 892,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Smartwatch. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 228,
+  "featured": true,
+  "soldCount": 228,
+  "createdAt": "2026-01-19",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r86-0",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-06-03",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p87",
+  "slug": "sport-smart-watch-amoled-87",
+  "title": "Sport Smart Watch AMOLED",
+  "type": "general",
+  "category": "smartwatch",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 100,
+  "stock": 20,
+  "sku": "MB788953",
+  "grade": "A+",
+  "origin": "International",
+  "weight": 735,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Smartwatch. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 220,
+  "featured": true,
+  "soldCount": 45,
+  "createdAt": "2026-07-15",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r87-0",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-06-07",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r87-1",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-09-23",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r87-2",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-08-06",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p88",
+  "slug": "tws-earbuds-pro-anc-88",
+  "title": "TWS Earbuds Pro ANC",
+  "type": "general",
+  "category": "earbuds",
+  "authors": [],
+  "brand": "orbit-gear",
+  "price": 2190,
+  "originalPrice": 2700,
+  "stock": 71,
+  "sku": "MB796872",
+  "grade": "A",
+  "origin": "Bangladesh",
+  "weight": 775,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Earbuds. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 267,
+  "featured": false,
+  "soldCount": 890,
+  "createdAt": "2026-04-27",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r88-0",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-10-15",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r88-1",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-04-26",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p89",
+  "slug": "mini-wireless-earbuds-89",
+  "title": "Mini Wireless Earbuds",
+  "type": "general",
+  "category": "earbuds",
+  "authors": [],
+  "brand": "kolomdani",
+  "price": 11390,
+  "originalPrice": 12250,
+  "stock": 39,
+  "sku": "MB804791",
+  "grade": "A",
+  "origin": "International",
+  "weight": 500,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Earbuds. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 231,
+  "featured": false,
+  "soldCount": 172,
+  "createdAt": "2026-06-13",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r89-0",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-03-07",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p90",
+  "slug": "gaming-earbuds-low-latency-90",
+  "title": "Gaming Earbuds Low Latency",
+  "type": "general",
+  "category": "earbuds",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 240,
+  "originalPrice": 260,
+  "stock": 0,
+  "sku": "MB812710",
+  "grade": "A+",
+  "origin": "International",
+  "weight": 331,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Earbuds. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 250,
+  "featured": true,
+  "soldCount": 367,
+  "createdAt": "2026-05-23",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r90-0",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-03-06",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r90-1",
+    "name": "Fahim",
+    "rating": 5,
+    "date": "2026-01-09",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r90-2",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-01-19",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p91",
+  "slug": "wired-earphone-with-mic-91",
+  "title": "Wired Earphone with Mic",
+  "type": "general",
+  "category": "earphone",
+  "authors": [],
+  "brand": "orbit-gear",
+  "price": 8060,
+  "originalPrice": 11040,
+  "stock": 0,
+  "sku": "MB820629",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 34,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Earphone. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 224,
+  "featured": true,
+  "soldCount": 537,
+  "createdAt": "2026-05-22",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p92",
+  "slug": "type-c-earphone-bass-92",
+  "title": "Type-C Earphone Bass",
+  "type": "general",
+  "category": "earphone",
+  "authors": [],
+  "brand": "orbit-gear",
+  "price": 290,
+  "stock": 56,
+  "sku": "MB828548",
+  "grade": "A",
+  "origin": "International",
+  "weight": 73,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Earphone. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 232,
+  "featured": false,
+  "soldCount": 777,
+  "createdAt": "2026-10-16",
+  "rating": 5,
+  "reviews": [
+   {
+    "id": "r92-0",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-03-20",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p93",
+  "slug": "in-ear-earphone-classic-93",
+  "title": "In-Ear Earphone Classic",
+  "type": "general",
+  "category": "earphone",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 1900,
+  "stock": 55,
+  "sku": "MB836467",
+  "grade": "A+",
+  "origin": "China",
+  "weight": 799,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Earphone. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 258,
+  "featured": false,
+  "soldCount": 263,
+  "createdAt": "2026-06-21",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p94",
+  "slug": "over-ear-wireless-headphone-94",
+  "title": "Over-Ear Wireless Headphone",
+  "type": "general",
+  "category": "headphone",
+  "authors": [],
+  "brand": "keynest",
+  "price": 2220,
+  "originalPrice": 3040,
+  "stock": 29,
+  "sku": "MB844386",
+  "grade": "Standard",
+  "origin": "China",
+  "weight": 894,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Headphone. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 258,
+  "featured": false,
+  "soldCount": 498,
+  "createdAt": "2026-09-28",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r94-0",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-05-20",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r94-1",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-06-11",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p95",
+  "slug": "rgb-gaming-headset-95",
+  "title": "RGB Gaming Headset",
+  "type": "general",
+  "category": "headphone",
+  "authors": [],
+  "brand": "chamra-craft",
+  "price": 70,
+  "originalPrice": 130,
+  "stock": 2,
+  "sku": "MB852305",
+  "grade": "A",
+  "origin": "International",
+  "weight": 681,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Headphone. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 268,
+  "featured": false,
+  "soldCount": 468,
+  "createdAt": "2026-07-27",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r95-0",
+    "name": "Fahim",
+    "rating": 4,
+    "date": "2026-05-26",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p96",
+  "slug": "foldable-bluetooth-headphone-96",
+  "title": "Foldable Bluetooth Headphone",
+  "type": "general",
+  "category": "headphone",
+  "authors": [],
+  "brand": "tasbeeh",
+  "price": 480,
+  "originalPrice": 790,
+  "stock": 51,
+  "sku": "MB860224",
+  "grade": "A",
+  "origin": "China",
+  "weight": 655,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Headphone. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 235,
+  "featured": false,
+  "soldCount": 715,
+  "createdAt": "2026-07-03",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p97",
+  "slug": "studio-monitor-headphone-97",
+  "title": "Studio Monitor Headphone",
+  "type": "general",
+  "category": "headphone",
+  "authors": [],
+  "brand": "kolomdani",
+  "price": 7730,
+  "stock": 59,
+  "sku": "MB868143",
+  "grade": "Standard",
+  "origin": "Bangladesh",
+  "weight": 139,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Headphone. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 256,
+  "featured": false,
+  "soldCount": 706,
+  "createdAt": "2026-08-14",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r97-0",
+    "name": "Fahim",
+    "rating": 4,
+    "date": "2026-02-14",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r97-1",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-06-04",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r97-2",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-06-24",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p98",
+  "slug": "20000mah-fast-charge-power-bank-98",
+  "title": "20000mAh Fast Charge Power Bank",
+  "type": "general",
+  "category": "power-bank",
+  "authors": [],
+  "brand": "keynest",
+  "price": 2400,
+  "originalPrice": 4140,
+  "stock": 43,
+  "sku": "MB876062",
+  "grade": "Standard",
+  "origin": "Bangladesh",
+  "weight": 482,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Power Bank. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 156,
+  "featured": false,
+  "soldCount": 227,
+  "createdAt": "2026-10-15",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r98-0",
+    "name": "Jubayer",
+    "rating": 5,
+    "date": "2026-05-17",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r98-1",
+    "name": "Mim",
+    "rating": 4,
+    "date": "2026-03-25",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r98-2",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-08-26",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r98-3",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-08-27",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p99",
+  "slug": "10000mah-slim-power-bank-99",
+  "title": "10000mAh Slim Power Bank",
+  "type": "general",
+  "category": "power-bank",
+  "authors": [],
+  "brand": "pixon",
+  "price": 4470,
+  "stock": 4,
+  "sku": "MB883981",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 386,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Power Bank. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 145,
+  "featured": false,
+  "soldCount": 772,
+  "createdAt": "2026-06-18",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p100",
+  "slug": "30000mah-multi-port-power-bank-100",
+  "title": "30000mAh Multi-Port Power Bank",
+  "type": "general",
+  "category": "power-bank",
+  "authors": [],
+  "brand": "tasbeeh",
+  "price": 1390,
+  "originalPrice": 1900,
+  "stock": 62,
+  "sku": "MB891900",
+  "grade": "A+",
+  "origin": "China",
+  "weight": 669,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Power Bank. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 160,
+  "featured": false,
+  "soldCount": 138,
+  "createdAt": "2026-05-06",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r100-0",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-02-23",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r100-1",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-06-08",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r100-2",
+    "name": "Rakib",
+    "rating": 3,
+    "date": "2026-10-24",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p101",
+  "slug": "soft-velvet-jaynamaz-101",
+  "title": "Soft Velvet Jaynamaz",
+  "type": "general",
+  "category": "jaynamaz",
+  "authors": [],
+  "brand": "pixon",
+  "price": 7250,
+  "originalPrice": 8150,
+  "stock": 4,
+  "sku": "MB899819",
+  "grade": "A",
+  "origin": "International",
+  "weight": 669,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Jaynamaz. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 43,
+  "featured": true,
+  "soldCount": 687,
+  "createdAt": "2026-08-23",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p102",
+  "slug": "travel-jaynamaz-foldable-102",
+  "title": "Travel Jaynamaz Foldable",
+  "type": "general",
+  "category": "jaynamaz",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 8980,
+  "stock": 69,
+  "sku": "MB907738",
+  "grade": "Standard",
+  "origin": "Bangladesh",
+  "weight": 388,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Jaynamaz. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 3,
+  "featured": false,
+  "soldCount": 150,
+  "createdAt": "2026-10-02",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r102-0",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-04-04",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r102-1",
+    "name": "Sakib",
+    "rating": 4,
+    "date": "2026-07-10",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r102-2",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-08-06",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r102-3",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-05-03",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p103",
+  "slug": "kids-jaynamaz-103",
+  "title": "Kids Jaynamaz",
+  "type": "general",
+  "category": "jaynamaz",
+  "authors": [],
+  "brand": "voltkin",
+  "price": 1980,
+  "originalPrice": 2830,
+  "stock": 36,
+  "sku": "MB915657",
+  "grade": "A",
+  "origin": "Bangladesh",
+  "weight": 41,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Jaynamaz. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 18,
+  "featured": true,
+  "soldCount": 531,
+  "createdAt": "2026-01-18",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p104",
+  "slug": "natural-miswak-2-pcs-104",
+  "title": "Natural Miswak 2 pcs",
+  "type": "general",
+  "category": "miswak",
+  "authors": [],
+  "brand": "orbit-gear",
+  "price": 1760,
+  "stock": 30,
+  "sku": "MB923576",
+  "grade": "A",
+  "origin": "Bangladesh",
+  "weight": 65,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Miswak. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 104,
+  "featured": false,
+  "soldCount": 641,
+  "createdAt": "2026-11-07",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p105",
+  "slug": "miswak-with-case-105",
+  "title": "Miswak with Case",
+  "type": "general",
+  "category": "miswak",
+  "authors": [],
+  "brand": "bagan-foods",
+  "price": 5020,
+  "originalPrice": 6880,
+  "stock": 73,
+  "sku": "MB931495",
+  "grade": "A",
+  "origin": "Bangladesh",
+  "weight": 488,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Miswak. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 92,
+  "featured": true,
+  "soldCount": 535,
+  "createdAt": "2026-06-03",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r105-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-02-15",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r105-1",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-01-22",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r105-2",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-07-10",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r105-3",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-05-25",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p106",
+  "slug": "leather-travel-duffel-106",
+  "title": "Leather Travel Duffel",
+  "type": "general",
+  "category": "bags",
+  "authors": [],
+  "brand": "nibha",
+  "price": 200,
+  "stock": 73,
+  "sku": "MB939414",
+  "grade": "A",
+  "origin": "China",
+  "weight": 288,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Bags. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 9,
+  "featured": false,
+  "soldCount": 230,
+  "createdAt": "2026-10-28",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r106-0",
+    "name": "Mim",
+    "rating": 4,
+    "date": "2026-03-17",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r106-1",
+    "name": "Fahim",
+    "rating": 4,
+    "date": "2026-04-18",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r106-2",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-06-12",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p107",
+  "slug": "canvas-school-backpack-107",
+  "title": "Canvas School Backpack",
+  "type": "general",
+  "category": "bags",
+  "authors": [],
+  "brand": "keynest",
+  "price": 410,
+  "originalPrice": 600,
+  "stock": 24,
+  "sku": "MB947333",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 243,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Bags. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 13,
+  "featured": false,
+  "soldCount": 298,
+  "createdAt": "2026-11-22",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r107-0",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-01-21",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r107-1",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-03-01",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p108",
+  "slug": "laptop-office-bag-108",
+  "title": "Laptop Office Bag",
+  "type": "general",
+  "category": "bags",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 1010,
+  "originalPrice": 1090,
+  "stock": 18,
+  "sku": "MB955252",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 737,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Bags. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 31,
+  "featured": false,
+  "soldCount": 546,
+  "createdAt": "2026-03-12",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r108-0",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-07-22",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r108-1",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-01-06",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p109",
+  "slug": "portfolio-art-folder-a3-109",
+  "title": "Portfolio Art Folder A3",
+  "type": "general",
+  "category": "bags",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 4340,
+  "stock": 18,
+  "sku": "MB963171",
+  "grade": "A",
+  "origin": "Bangladesh",
+  "weight": 538,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Bags. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 50,
+  "featured": false,
+  "soldCount": 833,
+  "createdAt": "2026-05-05",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p110",
+  "slug": "classic-leather-belt-brown-110",
+  "title": "Classic Leather Belt Brown",
+  "type": "general",
+  "category": "belt",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 290,
+  "originalPrice": 330,
+  "stock": 26,
+  "sku": "MB971090",
+  "grade": "A",
+  "origin": "International",
+  "weight": 755,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Belt. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 39,
+  "featured": true,
+  "soldCount": 850,
+  "createdAt": "2026-04-05",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r110-0",
+    "name": "Rakib",
+    "rating": 5,
+    "date": "2026-05-03",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r110-1",
+    "name": "Hasib",
+    "rating": 5,
+    "date": "2026-03-27",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r110-2",
+    "name": "Sumaiya",
+    "rating": 3,
+    "date": "2026-05-04",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r110-3",
+    "name": "Jubayer",
+    "rating": 3,
+    "date": "2026-01-07",
+    "text": "Very helpful for my preparation."
+   }
+  ]
+ },
+ {
+  "id": "p111",
+  "slug": "reversible-formal-belt-111",
+  "title": "Reversible Formal Belt",
+  "type": "general",
+  "category": "belt",
+  "authors": [],
+  "brand": "gharowa",
+  "price": 6220,
+  "originalPrice": 7870,
+  "stock": 70,
+  "sku": "MB979009",
+  "grade": "A",
+  "origin": "China",
+  "weight": 588,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Belt. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 8,
+  "featured": false,
+  "soldCount": 801,
+  "createdAt": "2026-09-09",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r111-0",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-06-05",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p112",
+  "slug": "casual-canvas-belt-112",
+  "title": "Casual Canvas Belt",
+  "type": "general",
+  "category": "belt",
+  "authors": [],
+  "brand": "keynest",
+  "price": 4590,
+  "originalPrice": 5600,
+  "stock": 19,
+  "sku": "MB986928",
+  "grade": "A",
+  "origin": "Bangladesh",
+  "weight": 680,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Belt. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 3,
+  "featured": false,
+  "soldCount": 190,
+  "createdAt": "2026-06-01",
+  "rating": 4.8,
+  "reviews": [
+   {
+    "id": "r112-0",
+    "name": "Fahim",
+    "rating": 5,
+    "date": "2026-10-24",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r112-1",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-02-19",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r112-2",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-07-16",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r112-3",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-07-22",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p113",
+  "slug": "cotton-crew-t-shirt-navy-113",
+  "title": "Cotton Crew T-shirt Navy",
+  "type": "general",
+  "category": "t-shirt",
+  "authors": [],
+  "brand": "soundleaf",
+  "price": 5460,
+  "stock": 12,
+  "sku": "MB994847",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 870,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: টি-শার্ট / T-shirt. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 194,
+  "featured": false,
+  "soldCount": 164,
+  "createdAt": "2026-06-26",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r113-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-09-05",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r113-1",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-05-08",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r113-2",
+    "name": "Fahim",
+    "rating": 4,
+    "date": "2026-08-26",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p114",
+  "slug": "printed-book-lover-tee-114",
+  "title": "Printed Book Lover Tee",
+  "type": "general",
+  "category": "t-shirt",
+  "authors": [],
+  "brand": "kolomdani",
+  "price": 11320,
+  "originalPrice": 14890,
+  "stock": 47,
+  "sku": "MB002766",
+  "grade": "Standard",
+  "origin": "China",
+  "weight": 75,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: টি-শার্ট / T-shirt. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 213,
+  "featured": false,
+  "soldCount": 700,
+  "createdAt": "2026-10-09",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p115",
+  "slug": "polo-t-shirt-white-115",
+  "title": "Polo T-shirt White",
+  "type": "general",
+  "category": "t-shirt",
+  "authors": [],
+  "brand": "bagan-foods",
+  "price": 40,
+  "stock": 33,
+  "sku": "MB010685",
+  "grade": "A+",
+  "origin": "China",
+  "weight": 333,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: টি-শার্ট / T-shirt. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 224,
+  "featured": true,
+  "soldCount": 395,
+  "createdAt": "2026-10-26",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r115-0",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-10-16",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r115-1",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-08-13",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r115-2",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-07-15",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p116",
+  "slug": "oud-attar-6ml-116",
+  "title": "Oud Attar 6ml",
+  "type": "general",
+  "category": "attar",
+  "authors": [],
+  "brand": "gharowa",
+  "price": 1790,
+  "originalPrice": 2490,
+  "stock": 22,
+  "sku": "MB018604",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 767,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Attar. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 69,
+  "featured": false,
+  "soldCount": 119,
+  "createdAt": "2026-05-15",
+  "rating": 3.5,
+  "reviews": [
+   {
+    "id": "r116-0",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-06-11",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r116-1",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-04-12",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p117",
+  "slug": "rose-attar-3ml-117",
+  "title": "Rose Attar 3ml",
+  "type": "general",
+  "category": "attar",
+  "authors": [],
+  "brand": "kolomdani",
+  "price": 270,
+  "originalPrice": 340,
+  "stock": 3,
+  "sku": "MB026523",
+  "grade": "A",
+  "origin": "China",
+  "weight": 806,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Attar. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 67,
+  "featured": false,
+  "soldCount": 847,
+  "createdAt": "2026-03-26",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p118",
+  "slug": "musk-attar-6ml-118",
+  "title": "Musk Attar 6ml",
+  "type": "general",
+  "category": "attar",
+  "authors": [],
+  "brand": "keynest",
+  "price": 420,
+  "originalPrice": 540,
+  "stock": 77,
+  "sku": "MB034442",
+  "grade": "Standard",
+  "origin": "China",
+  "weight": 781,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Attar. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 25,
+  "featured": false,
+  "soldCount": 324,
+  "createdAt": "2026-02-12",
+  "rating": 3.7,
+  "reviews": [
+   {
+    "id": "r118-0",
+    "name": "Sumaiya",
+    "rating": 3,
+    "date": "2026-07-05",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r118-1",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-04-27",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r118-2",
+    "name": "Sumaiya",
+    "rating": 5,
+    "date": "2026-02-14",
+    "text": "Exactly as described, delivery was quick."
+   }
+  ]
+ },
+ {
+  "id": "p119",
+  "slug": "instant-coffee-mix-20g-x-10-119",
+  "title": "Instant Coffee Mix 20g x 10",
+  "type": "general",
+  "category": "coffee-snacks",
+  "authors": [],
+  "brand": "orbit-gear",
+  "price": 2330,
+  "originalPrice": 2650,
+  "stock": 74,
+  "sku": "MB042361",
+  "grade": "Standard",
+  "origin": "International",
+  "weight": 794,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Coffee & Snacks. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 21,
+  "featured": false,
+  "soldCount": 213,
+  "createdAt": "2026-07-16",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r119-0",
+    "name": "Jubayer",
+    "rating": 5,
+    "date": "2026-08-01",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r119-1",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-09-17",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r119-2",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-09-20",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r119-3",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-04-28",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p120",
+  "slug": "cappuccino-sachet-pack-120",
+  "title": "Cappuccino Sachet Pack",
+  "type": "general",
+  "category": "coffee-snacks",
+  "authors": [],
+  "brand": "keynest",
+  "price": 2420,
+  "stock": 36,
+  "sku": "MB050280",
+  "grade": "Standard",
+  "origin": "Bangladesh",
+  "weight": 180,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Coffee & Snacks. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 5,
+  "featured": false,
+  "soldCount": 523,
+  "createdAt": "2026-03-26",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r120-0",
+    "name": "Sumaiya",
+    "rating": 5,
+    "date": "2026-08-09",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r120-1",
+    "name": "Orin",
+    "rating": 3,
+    "date": "2026-05-12",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p121",
+  "slug": "roasted-peanuts-250g-121",
+  "title": "Roasted Peanuts 250g",
+  "type": "general",
+  "category": "coffee-snacks",
+  "authors": [],
+  "brand": "pixon",
+  "price": 80,
+  "stock": 27,
+  "sku": "MB058199",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 136,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Coffee & Snacks. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 38,
+  "featured": false,
+  "soldCount": 236,
+  "createdAt": "2026-05-10",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p122",
+  "slug": "honey-500g-122",
+  "title": "Honey 500g",
+  "type": "general",
+  "category": "coffee-snacks",
+  "authors": [],
+  "brand": "bagan-foods",
+  "price": 1530,
+  "stock": 62,
+  "sku": "MB066118",
+  "grade": "A+",
+  "origin": "International",
+  "weight": 360,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Coffee & Snacks. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 26,
+  "featured": true,
+  "soldCount": 264,
+  "createdAt": "2026-04-13",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r122-0",
+    "name": "Orin",
+    "rating": 4,
+    "date": "2026-07-24",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p123",
+  "slug": "utility-cutter-knife-123",
+  "title": "Utility Cutter Knife",
+  "type": "general",
+  "category": "cutter-tools",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 120,
+  "stock": 48,
+  "sku": "MB074037",
+  "grade": "A",
+  "origin": "International",
+  "weight": 424,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Cutter & Tools. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 62,
+  "featured": false,
+  "soldCount": 265,
+  "createdAt": "2026-07-20",
+  "rating": 4.5,
+  "reviews": [
+   {
+    "id": "r123-0",
+    "name": "Rakib",
+    "rating": 5,
+    "date": "2026-08-04",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r123-1",
+    "name": "Hasib",
+    "rating": 4,
+    "date": "2026-01-02",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r123-2",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-04-22",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r123-3",
+    "name": "Fahim",
+    "rating": 5,
+    "date": "2026-06-11",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p124",
+  "slug": "cutter-blades-18mm-10-pcs-124",
+  "title": "Cutter Blades 18mm 10 pcs",
+  "type": "general",
+  "category": "cutter-tools",
+  "authors": [],
+  "brand": "nibha",
+  "price": 3310,
+  "stock": 10,
+  "sku": "MB081956",
+  "grade": "A",
+  "origin": "International",
+  "weight": 850,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Cutter & Tools. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 57,
+  "featured": false,
+  "soldCount": 56,
+  "createdAt": "2026-11-22",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r124-0",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-03-14",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r124-1",
+    "name": "Mim",
+    "rating": 5,
+    "date": "2026-10-21",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r124-2",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-07-13",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p125",
+  "slug": "steel-scissors-8-125",
+  "title": "Steel Scissors 8\"",
+  "type": "general",
+  "category": "cutter-tools",
+  "authors": [],
+  "brand": "pixon",
+  "price": 9400,
+  "stock": 58,
+  "sku": "MB089875",
+  "grade": "A",
+  "origin": "International",
+  "weight": 130,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Cutter & Tools. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 40,
+  "featured": false,
+  "soldCount": 369,
+  "createdAt": "2026-10-01",
+  "rating": 4.7,
+  "reviews": [
+   {
+    "id": "r125-0",
+    "name": "Hasib",
+    "rating": 5,
+    "date": "2026-06-28",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r125-1",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-01-22",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r125-2",
+    "name": "Rakib",
+    "rating": 4,
+    "date": "2026-03-18",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p126",
+  "slug": "retro-tv-tissue-box-126",
+  "title": "Retro TV Tissue Box",
+  "type": "general",
+  "category": "home-decorations",
+  "authors": [],
+  "brand": "kolomdani",
+  "price": 240,
+  "originalPrice": 320,
+  "stock": 23,
+  "sku": "MB097794",
+  "grade": "Standard",
+  "origin": "China",
+  "weight": 847,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Home Decorations. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 31,
+  "featured": false,
+  "soldCount": 124,
+  "createdAt": "2026-08-02",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r126-0",
+    "name": "Tania",
+    "rating": 4,
+    "date": "2026-09-22",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p127",
+  "slug": "slanted-storage-box-127",
+  "title": "Slanted Storage Box",
+  "type": "general",
+  "category": "home-decorations",
+  "authors": [],
+  "brand": "bagan-foods",
+  "price": 130,
+  "stock": 61,
+  "sku": "MB105713",
+  "grade": "A",
+  "origin": "International",
+  "weight": 728,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Home Decorations. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 49,
+  "featured": false,
+  "soldCount": 418,
+  "createdAt": "2026-10-22",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p128",
+  "slug": "led-lantern-candle-light-128",
+  "title": "LED Lantern Candle Light",
+  "type": "general",
+  "category": "home-decorations",
+  "authors": [],
+  "brand": "chamra-craft",
+  "price": 10540,
+  "originalPrice": 15500,
+  "stock": 42,
+  "sku": "MB113632",
+  "grade": "A",
+  "origin": "China",
+  "weight": 471,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Home Decorations. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 26,
+  "featured": false,
+  "soldCount": 525,
+  "createdAt": "2026-06-02",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r128-0",
+    "name": "Tania",
+    "rating": 3,
+    "date": "2026-04-05",
+    "text": "Price is fair for the quality."
+   }
+  ]
+ },
+ {
+  "id": "p129",
+  "slug": "frog-tissue-box-129",
+  "title": "Frog Tissue Box",
+  "type": "general",
+  "category": "home-decorations",
+  "authors": [],
+  "brand": "keynest",
+  "price": 670,
+  "originalPrice": 1000,
+  "stock": 75,
+  "sku": "MB121551",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 897,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Home Decorations. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 52,
+  "featured": false,
+  "soldCount": 258,
+  "createdAt": "2026-11-15",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p130",
+  "slug": "desk-organizer-wood-130",
+  "title": "Desk Organizer Wood",
+  "type": "general",
+  "category": "home-decorations",
+  "authors": [],
+  "brand": "tasbeeh",
+  "price": 1150,
+  "stock": 45,
+  "sku": "MB129470",
+  "grade": "A+",
+  "origin": "China",
+  "weight": 328,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Home Decorations. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 40,
+  "featured": false,
+  "soldCount": 900,
+  "createdAt": "2026-06-16",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r130-0",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-01-12",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r130-1",
+    "name": "Sumaiya",
+    "rating": 5,
+    "date": "2026-04-17",
+    "text": "Would buy again from Mamun Book."
+   },
+   {
+    "id": "r130-2",
+    "name": "Sakib",
+    "rating": 4,
+    "date": "2026-01-22",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r130-3",
+    "name": "Sakib",
+    "rating": 5,
+    "date": "2026-02-24",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p131",
+  "slug": "ceramic-flower-vase-131",
+  "title": "Ceramic Flower Vase",
+  "type": "general",
+  "category": "home-decorations",
+  "authors": [],
+  "brand": "gharowa",
+  "price": 600,
+  "stock": 64,
+  "sku": "MB137389",
+  "grade": "A",
+  "origin": "International",
+  "weight": 244,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Home Decorations. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 16,
+  "featured": true,
+  "soldCount": 208,
+  "createdAt": "2026-08-27",
+  "rating": 3.5,
+  "reviews": [
+   {
+    "id": "r131-0",
+    "name": "Mim",
+    "rating": 3,
+    "date": "2026-03-10",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r131-1",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-02-01",
+    "text": "Good print quality and paper."
+   }
+  ]
+ },
+ {
+  "id": "p132",
+  "slug": "mechanical-keyboard-75-132",
+  "title": "Mechanical Keyboard 75%",
+  "type": "general",
+  "category": "keyboard",
+  "authors": [],
+  "brand": "ronger-haat",
+  "price": 590,
+  "stock": 33,
+  "sku": "MB145308",
+  "grade": "A",
+  "origin": "International",
+  "weight": 387,
+  "description": [
+   "Built for daily use with durable materials and a clean, practical design.",
+   "Category: Keyboard. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 270,
+  "featured": false,
+  "soldCount": 171,
+  "createdAt": "2026-11-05",
+  "rating": 3.8,
+  "reviews": [
+   {
+    "id": "r132-0",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-08-19",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r132-1",
+    "name": "Mim",
+    "rating": 4,
+    "date": "2026-08-03",
+    "text": "Packaging was neat. Recommended."
+   },
+   {
+    "id": "r132-2",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-08-18",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r132-3",
+    "name": "Sakib",
+    "rating": 3,
+    "date": "2026-10-23",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p133",
+  "slug": "wireless-keyboard-slim-133",
+  "title": "Wireless Keyboard Slim",
+  "type": "general",
+  "category": "keyboard",
+  "authors": [],
+  "brand": "keynest",
+  "price": 1260,
+  "stock": 43,
+  "sku": "MB153227",
+  "grade": "A+",
+  "origin": "International",
+  "weight": 20,
+  "description": [
+   "A reliable everyday pick — compact, easy to carry and simple to maintain.",
+   "Category: Keyboard. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 262,
+  "featured": false,
+  "soldCount": 454,
+  "createdAt": "2026-11-04",
+  "rating": 4.7,
+  "reviews": [
+   {
+    "id": "r133-0",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-06-22",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r133-1",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-05-11",
+    "text": "Very helpful for my preparation."
+   },
+   {
+    "id": "r133-2",
+    "name": "Nabila",
+    "rating": 5,
+    "date": "2026-04-15",
+    "text": "Would buy again from Mamun Book."
+   }
+  ]
+ },
+ {
+  "id": "p134",
+  "slug": "rgb-gaming-keyboard-134",
+  "title": "RGB Gaming Keyboard",
+  "type": "general",
+  "category": "keyboard",
+  "authors": [],
+  "brand": "chamra-craft",
+  "price": 210,
+  "stock": 5,
+  "sku": "MB161146",
+  "grade": "A",
+  "origin": "International",
+  "weight": 62,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Keyboard. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 261,
+  "featured": false,
+  "soldCount": 828,
+  "createdAt": "2026-05-06",
+  "rating": 4,
+  "reviews": [
+   {
+    "id": "r134-0",
+    "name": "Orin",
+    "rating": 5,
+    "date": "2026-05-25",
+    "text": "Exactly as described, delivery was quick."
+   },
+   {
+    "id": "r134-1",
+    "name": "Sumaiya",
+    "rating": 3,
+    "date": "2026-06-20",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p135",
+  "slug": "wireless-mouse-silent-135",
+  "title": "Wireless Mouse Silent",
+  "type": "general",
+  "category": "mouse",
+  "authors": [],
+  "brand": "nibha",
+  "price": 250,
+  "originalPrice": 400,
+  "stock": 35,
+  "sku": "MB169065",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 527,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Mouse. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 3,
+  "hue": 189,
+  "featured": true,
+  "soldCount": 357,
+  "createdAt": "2026-04-23",
+  "rating": 0,
+  "reviews": []
+ },
+ {
+  "id": "p136",
+  "slug": "lightweight-gaming-mouse-136",
+  "title": "Lightweight Gaming Mouse",
+  "type": "general",
+  "category": "mouse",
+  "authors": [],
+  "brand": "nibha",
+  "price": 2980,
+  "stock": 40,
+  "sku": "MB176984",
+  "grade": "A+",
+  "origin": "Bangladesh",
+  "weight": 165,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Mouse. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 1,
+  "hue": 197,
+  "featured": false,
+  "soldCount": 703,
+  "createdAt": "2026-08-25",
+  "rating": 4.3,
+  "reviews": [
+   {
+    "id": "r136-0",
+    "name": "Sumaiya",
+    "rating": 4,
+    "date": "2026-01-12",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r136-1",
+    "name": "Jubayer",
+    "rating": 4,
+    "date": "2026-08-18",
+    "text": "Good print quality and paper."
+   },
+   {
+    "id": "r136-2",
+    "name": "Nabila",
+    "rating": 4,
+    "date": "2026-07-22",
+    "text": "Price is fair for the quality."
+   },
+   {
+    "id": "r136-3",
+    "name": "Jubayer",
+    "rating": 5,
+    "date": "2026-06-13",
+    "text": "Packaging was neat. Recommended."
+   }
+  ]
+ },
+ {
+  "id": "p137",
+  "slug": "ergonomic-vertical-mouse-137",
+  "title": "Ergonomic Vertical Mouse",
+  "type": "general",
+  "category": "mouse",
+  "authors": [],
+  "brand": "tasbeeh",
+  "price": 4600,
+  "stock": 80,
+  "sku": "MB184903",
+  "grade": "Standard",
+  "origin": "China",
+  "weight": 828,
+  "description": [
+   "Good value for students and offices alike, tested for consistent quality.",
+   "Category: Mouse. Demo listing for the Mamun Book frontend."
+  ],
+  "highlights": [
+   "Quality checked before dispatch",
+   "7-day replacement on defects",
+   "Cash on delivery available"
+  ],
+  "images": 2,
+  "hue": 210,
+  "featured": false,
+  "soldCount": 233,
+  "createdAt": "2026-03-21",
+  "rating": 3,
+  "reviews": [
+   {
+    "id": "r137-0",
+    "name": "Hasib",
+    "rating": 3,
+    "date": "2026-07-15",
+    "text": "Good print quality and paper."
+   }
+  ]
+ }
+]

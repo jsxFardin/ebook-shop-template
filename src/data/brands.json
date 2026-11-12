@@ -1,0 +1,86 @@
+[
+ {
+  "slug": "nibha",
+  "name": "Nibha",
+  "bio": "Nibha — everyday products curated for the Mamun Book store.",
+  "hue": 200,
+  "initials": "N"
+ },
+ {
+  "slug": "kolomdani",
+  "name": "Kolomdani",
+  "bio": "Kolomdani — everyday products curated for the Mamun Book store.",
+  "hue": 241,
+  "initials": "K"
+ },
+ {
+  "slug": "ronger-haat",
+  "name": "Ronger Haat",
+  "bio": "Ronger Haat — everyday products curated for the Mamun Book store.",
+  "hue": 282,
+  "initials": "RH"
+ },
+ {
+  "slug": "soundleaf",
+  "name": "SoundLeaf",
+  "bio": "SoundLeaf — everyday products curated for the Mamun Book store.",
+  "hue": 323,
+  "initials": "S"
+ },
+ {
+  "slug": "pixon",
+  "name": "Pixon",
+  "bio": "Pixon — everyday products curated for the Mamun Book store.",
+  "hue": 4,
+  "initials": "P"
+ },
+ {
+  "slug": "voltkin",
+  "name": "Voltkin",
+  "bio": "Voltkin — everyday products curated for the Mamun Book store.",
+  "hue": 45,
+  "initials": "V"
+ },
+ {
+  "slug": "tasbeeh",
+  "name": "Tasbeeh",
+  "bio": "Tasbeeh — everyday products curated for the Mamun Book store.",
+  "hue": 86,
+  "initials": "T"
+ },
+ {
+  "slug": "chamra-craft",
+  "name": "Chamra Craft",
+  "bio": "Chamra Craft — everyday products curated for the Mamun Book store.",
+  "hue": 127,
+  "initials": "CC"
+ },
+ {
+  "slug": "bagan-foods",
+  "name": "Bagan Foods",
+  "bio": "Bagan Foods — everyday products curated for the Mamun Book store.",
+  "hue": 168,
+  "initials": "BF"
+ },
+ {
+  "slug": "gharowa",
+  "name": "Gharowa",
+  "bio": "Gharowa — everyday products curated for the Mamun Book store.",
+  "hue": 209,
+  "initials": "G"
+ },
+ {
+  "slug": "keynest",
+  "name": "Keynest",
+  "bio": "Keynest — everyday products curated for the Mamun Book store.",
+  "hue": 250,
+  "initials": "K"
+ },
+ {
+  "slug": "orbit-gear",
+  "name": "Orbit Gear",
+  "bio": "Orbit Gear — everyday products curated for the Mamun Book store.",
+  "hue": 291,
+  "initials": "OG"
+ }
+]
