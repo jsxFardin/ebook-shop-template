@@ -188,7 +188,7 @@
   "name": "Jaynamaz",
   "parent": "sunnah-store",
   "type": "general",
-  "icon": "Square",
+  "icon": "MoonStar",
   "hue": 20
  },
  {
@@ -220,7 +220,7 @@
   "name": "Belt",
   "parent": "life-style",
   "type": "general",
-  "icon": "Minus",
+  "icon": "RectangleEllipsis",
   "hue": 15
  },
  {

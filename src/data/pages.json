@@ -1,0 +1,76 @@
+{
+  "about": {
+    "title": "About Us",
+    "sections": [
+      { "heading": "", "body": ["mamunbooks.com is an online bookshop and lifestyle store based in Dhaka. We started with admission and job-preparation books and now carry fiction, academic titles, Islamic books, stationery, gadgets and everyday essentials.", "Our goal is simple: help readers anywhere in Bangladesh find the right book quickly, pay the way they prefer, and receive it at their door without hassle.", "The catalogue covers tens of thousands of titles across Bangla and English, from university admission guides to poetry, translation, research and children's books."] },
+      { "heading": "IT Support Service", "body": ["A dedicated support team maintains the website and apps, and helps customers with account creation, sign-in and order tracking problems."] },
+      { "heading": "Call Center", "body": ["Our customer-first call centre answers questions by phone, email, SMS, WhatsApp and Messenger, every day from 9:00 AM to 9:00 PM. Agents can place orders, check delivery status and arrange returns."] },
+      { "heading": "Payment Method", "body": ["Pay with Cash on Delivery anywhere in the country, or pay online with bKash, Nagad, Rocket and major debit or credit cards."] },
+      { "heading": "Delivery Network", "body": ["Inside Dhaka we deliver with our own riders, usually within 24–48 hours. Outside Dhaka we ship through trusted courier partners, typically within 3–5 working days."] }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      { "heading": "What we collect", "body": ["We collect the information you give us when you create an account or place an order: your name, phone number, email address and delivery address.", "We also keep basic usage data, such as pages visited and items added to the cart, to improve the store."] },
+      { "heading": "How we use it", "body": ["Your details are used to process and deliver orders, contact you about them, and — if you opt in — send news about new arrivals and offers."] },
+      { "heading": "Sharing", "body": ["We share delivery details only with the courier handling your order. We never sell personal information."] },
+      { "heading": "Your choices", "body": ["You can update your profile at any time from My Account, unsubscribe from emails with one click, or request account deletion from the Delete Account page."] }
+    ]
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "sections": [
+      { "heading": "Using the store", "body": ["By using mamunbooks.com you agree to provide accurate information and to use the site for lawful purposes only."] },
+      { "heading": "Prices and availability", "body": ["Prices are shown in Bangladeshi Taka (৳) and include VAT where applicable. Stock and prices can change without notice; the price at checkout is the price you pay."] },
+      { "heading": "Orders", "body": ["An order is confirmed once you receive a confirmation call or message. We may cancel an order if an item is out of stock or the delivery address cannot be verified."] },
+      { "heading": "Intellectual property", "body": ["Site design, text and graphics belong to Mamun Book and may not be reused without permission."] }
+    ]
+  },
+  "returns": {
+    "title": "Delivery, Return & Refund Policy",
+    "sections": [
+      { "heading": "Delivery charges", "body": ["Inside Dhaka: ৳60. Outside Dhaka: ৳120. Delivery inside Dhaka is free for orders of ৳1,500 or more.", "Heavy parcels may carry an additional charge based on weight; this is shown before you confirm the order."] },
+      { "heading": "Delivery time", "body": ["Inside Dhaka: 1–2 working days. Outside Dhaka: 3–5 working days. Pre-order titles ship as soon as stock arrives."] },
+      { "heading": "Returns", "body": ["If a book is damaged, misprinted or not what you ordered, tell us within 7 days of delivery. Keep the item in its original condition with the invoice.", "Change-of-mind returns are not accepted for opened gadgets, attar or food items."] },
+      { "heading": "Refunds", "body": ["Approved refunds are sent within 7 working days to your bKash/Nagad number, bank account, or as store credit — your choice."] }
+    ]
+  },
+  "career": {
+    "title": "Career",
+    "sections": [
+      { "heading": "Work with us", "body": ["We are a growing team of booksellers, engineers, support agents and delivery riders. If you love books and care about customers, we would like to hear from you."] },
+      { "heading": "Customer Support Executive (Dhaka)", "body": ["Answer customer calls and chats, track orders and solve delivery issues. Fluent Bangla and basic English required. Full-time, rotating shifts."] },
+      { "heading": "Warehouse Associate (Hatirpool)", "body": ["Pick, pack and quality-check orders. Attention to detail matters more than experience."] },
+      { "heading": "How to apply", "body": ["Send your CV with the role in the subject line to careers@mamunbooks.com."] }
+    ]
+  },
+  "blog": {
+    "title": "Blog",
+    "sections": [
+      { "heading": "How to plan your admission preparation in 90 days", "body": ["Split the 90 days into three blocks: concepts, practice, and full mock tests. Use one main guide per subject rather than five, and review your mistakes every Friday."] },
+      { "heading": "Five Bangla novels for a rainy weekend", "body": ["Monsoon is the best time to read slow, atmospheric fiction. Our staff picked five short novels you can finish in a weekend — browse the Golpo/Kobita/Uponnash shelf to find them."] },
+      { "heading": "Choosing a scientific calculator for exams", "body": ["Check which models your exam allows, prefer solar backup, and practise with the same calculator you will carry on the day."] }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "groups": [
+      { "name": "Ordering", "items": [
+        { "q": "How do I place an order?", "a": "Add items to your cart, open the cart and select Checkout. Enter your delivery details, choose a payment method and confirm. You will see an order number straight away." },
+        { "q": "How do I cancel an order?", "a": "Open My Account → My Orders and choose Cancel on any order that is still Processing. Orders that have shipped can be refused at the door or returned under our return policy." },
+        { "q": "Can I order a book that is out of stock?", "a": "Out-of-stock items can't be added to the cart. Add them to your wishlist and check back, or contact us and we will try to source the title." }
+      ] },
+      { "name": "Delivery", "items": [
+        { "q": "How much is delivery?", "a": "৳60 inside Dhaka and ৳120 outside Dhaka. Delivery inside Dhaka is free for orders of ৳1,500 or more." },
+        { "q": "How long does delivery take?", "a": "1–2 working days inside Dhaka and 3–5 working days elsewhere in Bangladesh." },
+        { "q": "How do I know shopping here is secure?", "a": "Card and mobile-wallet payments are processed by licensed payment providers; we never see your card number. Cash on delivery is always available." }
+      ] },
+      { "name": "General", "items": [
+        { "q": "Do you sell wholesale?", "a": "Yes. Use Wholesale Login in the top bar or call 01896177715 on WhatsApp for bulk prices." },
+        { "q": "Can I change my account phone number?", "a": "Yes. Go to My Account → Profile, update the number and save." },
+        { "q": "Do you have a mobile app?", "a": "Yes, the Mamun Book app is available on the App Store and Google Play." }
+      ] }
+    ]
+  }
+}
