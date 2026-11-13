@@ -1,98 +1,311 @@
 [
  {
-  "slug": "alokbortika-prokashoni",
-  "name": "Alokbortika Prokashoni",
-  "nameBn": "আলোকবর্তিকা প্রকাশনী",
-  "bio": "Alokbortika Prokashoni publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 10,
+  "slug": "view-publications",
+  "name": "View publications",
+  "nameBn": "ভিউ পাবলিকেশন্স",
+  "bio": "",
+  "hue": 146,
+  "initials": "VP",
+  "image": "/images/publishers/view-publications.jpg"
+ },
+ {
+  "slug": "exclusive-education-aid",
+  "name": "Exclusive Education Aid",
+  "bio": "",
+  "hue": 290,
+  "initials": "EE",
+  "image": "/images/publishers/exclusive-education-aid.webp"
+ },
+ {
+  "slug": "adiba-publication",
+  "name": "adiba Publication",
+  "nameBn": "আদিবা পাবলিকেশন্স",
+  "bio": "",
+  "hue": 25,
   "initials": "AP"
  },
  {
-  "slug": "shikkha-path-publications",
-  "name": "Shikkha Path Publications",
-  "nameBn": "শিক্ষা পথ পাবলিকেশন্স",
-  "bio": "Shikkha Path Publications publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 63,
-  "initials": "SP"
+  "slug": "banglamed-publication-genesis",
+  "name": "Banglamed Publication (GENESIS)",
+  "nameBn": "বাংলামেড পাবলিকেশন (জেনেসিস)",
+  "bio": "",
+  "hue": 308,
+  "initials": "BP",
+  "image": "/images/publishers/banglamed-publication-genesis.jpg"
  },
  {
-  "slug": "nodi-prokash",
-  "name": "Nodi Prokash",
-  "nameBn": "নদী প্রকাশ",
-  "bio": "Nodi Prokash publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 116,
-  "initials": "NP"
+  "slug": "the-royal-scientific-publications",
+  "name": "The Royal Scientific Publications",
+  "nameBn": "দ্য রয়েল সায়েন্টিফিক পাবলিকেশন্স",
+  "bio": "",
+  "hue": 190,
+  "initials": "TR",
+  "image": "/images/publishers/the-royal-scientific-publications.jpg"
  },
  {
-  "slug": "medi-prep-press",
-  "name": "Medi Prep Press",
-  "nameBn": "মেডি প্রেপ প্রেস",
-  "bio": "Medi Prep Press publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 169,
-  "initials": "MP"
+  "slug": "joykoly-publications",
+  "name": "Joykoly Publications",
+  "nameBn": "জয়কলি পাবলিকেশন্স",
+  "bio": "",
+  "hue": 306,
+  "initials": "JP",
+  "image": "/images/publishers/joykoly-publications.png"
  },
  {
-  "slug": "career-ladder-publications",
-  "name": "Career Ladder Publications",
-  "nameBn": "ক্যারিয়ার ল্যাডার",
-  "bio": "Career Ladder Publications publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 222,
-  "initials": "CL"
+  "slug": "panacea-publication",
+  "name": "Panacea Publication",
+  "nameBn": "প্যানাসিয়া পাবলিকেশন্স",
+  "bio": "",
+  "hue": 119,
+  "initials": "PP",
+  "image": "/images/publishers/panacea-publication.jpg"
  },
  {
-  "slug": "kagoj-kolom",
-  "name": "Kagoj Kolom",
-  "nameBn": "কাগজ কলম",
-  "bio": "Kagoj Kolom publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 275,
-  "initials": "KK"
+  "slug": "bastob-prokashoni",
+  "name": "Bastob Prokashoni",
+  "nameBn": "বাস্তব প্রকাশনী",
+  "bio": "",
+  "hue": 159,
+  "initials": "BP"
  },
  {
-  "slug": "shobuj-pata",
-  "name": "Shobuj Pata",
-  "nameBn": "সবুজ পাতা",
-  "bio": "Shobuj Pata publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 328,
-  "initials": "SP"
+  "slug": "bit2exabyte-publications",
+  "name": "Bit2exabyte Publications",
+  "bio": "",
+  "hue": 14,
+  "initials": "BP",
+  "image": "/images/publishers/bit2exabyte-publications.webp"
  },
  {
-  "slug": "lighthouse-academic",
-  "name": "Lighthouse Academic",
-  "nameBn": "লাইটহাউস একাডেমিক",
-  "bio": "Lighthouse Academic publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 21,
-  "initials": "LA"
+  "slug": "oracle-publications",
+  "name": "Oracle Publications",
+  "nameBn": "ওরাকল পাবলিকেশন্স",
+  "bio": "",
+  "hue": 121,
+  "initials": "OP",
+  "image": "/images/publishers/oracle-publications.jpg"
  },
  {
-  "slug": "nur-library",
-  "name": "Nur Library",
-  "nameBn": "নূর লাইব্রেরি",
-  "bio": "Nur Library publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 74,
-  "initials": "NL"
+  "slug": "dhumketu-publication",
+  "name": "Dhumketu Publication",
+  "nameBn": "ধূমকেতু পাবলিকেশন",
+  "bio": "",
+  "hue": 187,
+  "initials": "DP"
  },
  {
-  "slug": "ekushey-prokashon",
-  "name": "Ekushey Prokashon",
-  "nameBn": "একুশে প্রকাশন",
-  "bio": "Ekushey Prokashon publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 127,
-  "initials": "EP"
+  "slug": "1-publication",
+  "name": "1+ Publication",
+  "nameBn": "ওয়ান প্লাস পাবলিকেশন",
+  "bio": "",
+  "hue": 190,
+  "initials": "1P",
+  "image": "/images/publishers/1-publication.jpg"
  },
  {
-  "slug": "pathshala-press",
-  "name": "Pathshala Press",
-  "nameBn": "পাঠশালা প্রেস",
-  "bio": "Pathshala Press publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 180,
-  "initials": "PP"
+  "slug": "mihir-s-research-publications",
+  "name": "Mihir's Research & Publications",
+  "nameBn": "মিহির'স রিসার্চ & পাবলিকেশন্স",
+  "bio": "",
+  "hue": 167,
+  "initials": "MR",
+  "image": "/images/publishers/mihir-s-research-publications.jpg"
  },
  {
-  "slug": "bornomala-books",
-  "name": "Bornomala Books",
-  "nameBn": "বর্ণমালা বুকস",
-  "bio": "Bornomala Books publishes study guides, literature and reference titles for readers across Bangladesh.",
-  "hue": 233,
-  "initials": "BB"
+  "slug": "visionary-publications",
+  "name": "Visionary Publications",
+  "nameBn": "ভিশনারি পাবলিকেশন্স",
+  "bio": "",
+  "hue": 247,
+  "initials": "VP",
+  "image": "/images/publishers/visionary-publications.webp"
+ },
+ {
+  "slug": "recent-publications",
+  "name": "Recent Publications",
+  "nameBn": "রিসেন্ট পাবলিকেশন্স",
+  "bio": "",
+  "hue": 252,
+  "initials": "RP",
+  "image": "/images/publishers/recent-publications.jpg"
+ },
+ {
+  "slug": "altaf-medical-book-center",
+  "name": "Altaf Medical Book Center",
+  "nameBn": "আলতাফ মেডিকেল বুক সেন্টার",
+  "bio": "",
+  "hue": 355,
+  "initials": "AM",
+  "image": "/images/publishers/altaf-medical-book-center.webp"
+ },
+ {
+  "slug": "dewan-masud-rahman",
+  "name": "Dewan Masud Rahman",
+  "nameBn": "দেওয়ান মাসুদ রহমান",
+  "bio": "",
+  "hue": 344,
+  "initials": "DM",
+  "image": "/images/publishers/dewan-masud-rahman.webp"
+ },
+ {
+  "slug": "combined-medical-publication",
+  "name": "combined medical publication",
+  "nameBn": "কমবাইন্ড মেডিকেল পাবলিকেশন",
+  "bio": "",
+  "hue": 154,
+  "initials": "CM",
+  "image": "/images/publishers/combined-medical-publication.webp"
+ },
+ {
+  "slug": "anyaprokash",
+  "name": "Anyaprokash",
+  "nameBn": "অন্যপ্রকাশ",
+  "bio": "",
+  "hue": 43,
+  "initials": "A",
+  "image": "/images/publishers/anyaprokash.jpg"
+ },
+ {
+  "slug": "synapse-medical-academy",
+  "name": "Synapse Medical Academy",
+  "nameBn": "সিন্যাপস মেডিকেল একাডেমি",
+  "bio": "",
+  "hue": 142,
+  "initials": "SM",
+  "image": "/images/publishers/synapse-medical-academy.png"
+ },
+ {
+  "slug": "thieme",
+  "name": "থিম, ‎Thieme",
+  "bio": "",
+  "hue": 38,
+  "initials": "থ‎",
+  "image": "/images/publishers/thieme.webp"
+ },
+ {
+  "slug": "totem-books-m",
+  "name": "Totem Books(M)",
+  "bio": "",
+  "hue": 81,
+  "initials": "TB",
+  "image": "/images/publishers/totem-books-m.webp"
+ },
+ {
+  "slug": "bishwasahitto-vobon",
+  "name": "Bishwasahitto Vobon",
+  "nameBn": "বিশ্বসাহিত্য ভবন",
+  "bio": "",
+  "hue": 178,
+  "initials": "BV",
+  "image": "/images/publishers/bishwasahitto-vobon.webp"
+ },
+ {
+  "slug": "abid-publications",
+  "name": "Abid Publications",
+  "nameBn": "আবীদ পাবলিকেশন্স",
+  "bio": "",
+  "hue": 251,
+  "initials": "AP"
+ },
+ {
+  "slug": "saifur-s-publications",
+  "name": "Saifur's Publications",
+  "nameBn": "সাইফুর'স পাবলিকেশন্স",
+  "bio": "",
+  "hue": 115,
+  "initials": "SP",
+  "image": "/images/publishers/saifur-s-publications.jpg"
+ },
+ {
+  "slug": "baticrom-publications",
+  "name": "Baticrom Publications",
+  "nameBn": "ব্যতিক্রম পাবলিকেশন্স",
+  "bio": "",
+  "hue": 310,
+  "initials": "BP",
+  "image": "/images/publishers/baticrom-publications.jpg"
+ },
+ {
+  "slug": "mawla-brothers",
+  "name": "Mawla Brothers",
+  "nameBn": "মাওলা ব্রাদার্স",
+  "bio": "",
+  "hue": 51,
+  "initials": "MB",
+  "image": "/images/publishers/mawla-brothers.webp"
+ },
+ {
+  "slug": "jonaki-prokashoni",
+  "name": "Jonaki Prokashoni",
+  "nameBn": "জোনাকী প্রকাশনী",
+  "bio": "",
+  "hue": 220,
+  "initials": "JP",
+  "image": "/images/publishers/jonaki-prokashoni.jpg"
+ },
+ {
+  "slug": "ezra-publications",
+  "name": "Ezra Publications",
+  "nameBn": "ইজরা পাবলিকেশন্স",
+  "bio": "",
+  "hue": 315,
+  "initials": "EP",
+  "image": "/images/publishers/ezra-publications.webp"
+ },
+ {
+  "slug": "sean-publication",
+  "name": "Sean Publication",
+  "nameBn": "সিয়ান পাবলিকেশন",
+  "bio": "",
+  "hue": 339,
+  "initials": "SP",
+  "image": "/images/publishers/sean-publication.jpg"
+ },
+ {
+  "slug": "professors-prokashon",
+  "name": "Professors Prokashon",
+  "nameBn": "প্রফেসর’স প্রকাশন",
+  "bio": "",
+  "hue": 19,
+  "initials": "PP",
+  "image": "/images/publishers/professors-prokashon.jpg"
+ },
+ {
+  "slug": "jossey-bass",
+  "name": "Jossey-Bass",
+  "bio": "",
+  "hue": 115,
+  "initials": "J"
+ },
+ {
+  "slug": "eng-learning-publication",
+  "name": "ENG Learning Publication",
+  "bio": "",
+  "hue": 324,
+  "initials": "EL"
+ },
+ {
+  "slug": "english-therapy",
+  "name": "ENGLISH THERAPY",
+  "nameBn": "ইংলিশ থেরাপি",
+  "bio": "",
+  "hue": 345,
+  "initials": "ET"
+ },
+ {
+  "slug": "craft-publication",
+  "name": "Craft Publication",
+  "nameBn": "ক্রাফট পাবলিকেশন",
+  "bio": "",
+  "hue": 204,
+  "initials": "CP"
+ },
+ {
+  "slug": "dev-publications",
+  "name": "Dev Publications",
+  "nameBn": "দেবো প্রকাশনী",
+  "bio": "",
+  "hue": 50,
+  "initials": "DP"
  }
 ]

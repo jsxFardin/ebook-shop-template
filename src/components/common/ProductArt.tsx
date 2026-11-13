@@ -8,7 +8,7 @@ import { iconFor } from './CategoryIcon'
  * deterministic SVG "cover" (books) or studio-style shot (general goods). If a product ever carries an
  * `image` URL, it is used and this art becomes the fallback when the image fails to load.
  */
-export default function ProductArt({ product, variant = 0, className = '' }: { product: Product & { image?: string }; variant?: number; className?: string }) {
+export default function ProductArt({ product, variant = 0, className = '' }: { product: Product; variant?: number; className?: string }) {
   const [broken, setBroken] = useState(false)
   if (product.image && !broken && variant === 0)
     return <img src={product.image} alt={product.title} loading="lazy" onError={() => setBroken(true)} className={`h-full w-full object-contain ${className}`} />

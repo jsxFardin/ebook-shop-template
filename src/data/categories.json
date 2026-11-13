@@ -5,7 +5,8 @@
   "parent": null,
   "type": "book",
   "icon": "BookOpen",
-  "hue": 28
+  "hue": 28,
+  "image": "/images/categories/boi-books.jpg"
  },
  {
   "slug": "bcs-special",
@@ -13,7 +14,8 @@
   "parent": "boi-books",
   "type": "book",
   "icon": "BookOpen",
-  "hue": 200
+  "hue": 200,
+  "image": "/images/categories/bcs-special.webp"
  },
  {
   "slug": "admission-books",
@@ -21,7 +23,8 @@
   "parent": "boi-books",
   "type": "book",
   "icon": "BookOpen",
-  "hue": 160
+  "hue": 160,
+  "image": "/images/categories/admission-books.jpg"
  },
  {
   "slug": "bcs-chakri",
@@ -29,7 +32,8 @@
   "parent": "boi-books",
   "type": "book",
   "icon": "BookOpen",
-  "hue": 140
+  "hue": 140,
+  "image": "/images/categories/bcs-chakri.jpg"
  },
  {
   "slug": "medical",
@@ -37,7 +41,8 @@
   "parent": "boi-books",
   "type": "book",
   "icon": "BookOpen",
-  "hue": 0
+  "hue": 0,
+  "image": "/images/categories/medical.jpg"
  },
  {
   "slug": "ssc-hsc",
@@ -85,7 +90,8 @@
   "parent": null,
   "type": "general",
   "icon": "PencilLine",
-  "hue": 45
+  "hue": 45,
+  "image": "/images/categories/stationary-1.jpg"
  },
  {
   "slug": "pencil",
@@ -93,7 +99,8 @@
   "parent": "stationary-1",
   "type": "general",
   "icon": "Pencil",
-  "hue": 45
+  "hue": 45,
+  "image": "/images/categories/pencil.jpg"
  },
  {
   "slug": "pen-1",
@@ -101,7 +108,8 @@
   "parent": "stationary-1",
   "type": "general",
   "icon": "PenTool",
-  "hue": 210
+  "hue": 210,
+  "image": "/images/categories/pen-1.webp"
  },
  {
   "slug": "painting-drawing-art-supplies",
@@ -109,7 +117,8 @@
   "parent": "stationary-1",
   "type": "general",
   "icon": "Palette",
-  "hue": 300
+  "hue": 300,
+  "image": "/images/categories/painting-drawing-art-supplies.webp"
  },
  {
   "slug": "calculator",
@@ -117,7 +126,8 @@
   "parent": "stationary-1",
   "type": "general",
   "icon": "Calculator",
-  "hue": 180
+  "hue": 180,
+  "image": "/images/categories/calculator.jpg"
  },
  {
   "slug": "paper-files",
@@ -141,7 +151,8 @@
   "parent": "gadget",
   "type": "general",
   "icon": "Watch",
-  "hue": 230
+  "hue": 230,
+  "image": "/images/categories/smartwatch.jpg"
  },
  {
   "slug": "earbuds",
@@ -149,7 +160,8 @@
   "parent": "gadget",
   "type": "general",
   "icon": "Bluetooth",
-  "hue": 250
+  "hue": 250,
+  "image": "/images/categories/earbuds.jpg"
  },
  {
   "slug": "earphone",
@@ -157,7 +169,8 @@
   "parent": "gadget",
   "type": "general",
   "icon": "Cable",
-  "hue": 240
+  "hue": 240,
+  "image": "/images/categories/earphone.jpg"
  },
  {
   "slug": "headphone",
@@ -165,7 +178,8 @@
   "parent": "gadget",
   "type": "general",
   "icon": "Headphones",
-  "hue": 260
+  "hue": 260,
+  "image": "/images/categories/headphone.jpg"
  },
  {
   "slug": "power-bank",
@@ -213,7 +227,8 @@
   "parent": "life-style",
   "type": "general",
   "icon": "Briefcase",
-  "hue": 25
+  "hue": 25,
+  "image": "/images/categories/bags.webp"
  },
  {
   "slug": "belt",
@@ -221,7 +236,8 @@
   "parent": "life-style",
   "type": "general",
   "icon": "RectangleEllipsis",
-  "hue": 15
+  "hue": 15,
+  "image": "/images/categories/belt.webp"
  },
  {
   "slug": "t-shirt",
@@ -229,7 +245,8 @@
   "parent": "life-style",
   "type": "general",
   "icon": "Shirt",
-  "hue": 210
+  "hue": 210,
+  "image": "/images/categories/t-shirt.jpg"
  },
  {
   "slug": "attar",
@@ -237,7 +254,8 @@
   "parent": "life-style",
   "type": "general",
   "icon": "Droplet",
-  "hue": 45
+  "hue": 45,
+  "image": "/images/categories/attar.webp"
  },
  {
   "slug": "super-shop",

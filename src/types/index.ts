@@ -9,6 +9,7 @@ export interface Category {
   icon: string
   /** hue used for generated art + category box tint */
   hue: number
+  image?: string
 }
 
 export interface Person {
@@ -18,6 +19,7 @@ export interface Person {
   bio: string
   hue: number
   initials: string
+  image?: string
 }
 
 export interface Review {
@@ -60,6 +62,7 @@ export interface Product {
   createdAt: string
   rating: number
   reviews: Review[]
+  image?: string
 }
 
 export interface CartItem {

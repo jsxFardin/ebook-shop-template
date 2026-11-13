@@ -20,8 +20,10 @@ export default function CategoryBoxes() {
                     const Icon = iconFor(c.icon)
                     return (
                       <L key={slug} to={`/products?category=${slug}`} className="group text-center">
-                        <span className="mx-auto flex aspect-square w-full max-w-[110px] items-center justify-center rounded transition-transform group-hover:scale-[1.03]" style={{ background: `hsl(${c.hue} 75% 90%)` }}>
-                          <Icon size={44} strokeWidth={1.3} style={{ color: `hsl(${c.hue} 55% 32%)` }} />
+                        <span className="mx-auto flex aspect-square w-full max-w-[110px] items-center justify-center overflow-hidden rounded transition-transform group-hover:scale-[1.03]" style={{ background: `hsl(${c.hue} 75% 90%)` }}>
+                          {c.image
+                            ? <img src={c.image} alt="" loading="lazy" className="h-full w-full object-cover" />
+                            : <Icon size={44} strokeWidth={1.3} style={{ color: `hsl(${c.hue} 55% 32%)` }} />}
                         </span>
                         <span className="mt-1.5 line-clamp-2 block text-xs text-muted group-hover:text-accent-dark">{c.name}</span>
                       </L>
